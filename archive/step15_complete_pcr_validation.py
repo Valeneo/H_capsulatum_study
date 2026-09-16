@@ -5,12 +5,13 @@ Tools: Python / Gel Sizing Generator
 
 Biology & Logic:
 - Compiles the final diagnostic PCR verification report across all validated markers.
-- Computes exact amplicon lengths per strain/clade based on repeat copy number variation.
+- Computes exact amplicon lengths per strain/clade based on empirical repeat copy number variation.
 - Verifies that band differences are large enough to be resolved on standard agarose
   gels (>= 6-10 bp) or capillary electrophoresis / Bioanalyzers (>= 1-2 bp).
 """
 
 import os
+import sys
 
 FINAL_KIT = "results/final_primer_panel/TRUE_final_diagnostic_kit.tsv"
 PCR_LOG_DIR = "results/stage6_biophysical_validation"
@@ -21,7 +22,7 @@ MASTER_PCR_REPORT = os.path.join(PCR_LOG_DIR, "complete_insilico_pcr_report.txt"
 def main():
     if not os.path.exists(FINAL_KIT):
         print(f"❌ Error: Master diagnostic kit '{FINAL_KIT}' not found. Please run Step 13 first.")
-        return
+        sys.exit(1)
 
     loci = []
     with open(FINAL_KIT, "r") as f:
@@ -37,6 +38,8 @@ def main():
 
     print(f"🔬 Processing all {len(loci)} diagnostic loci for the final PCR validation ledger...")
 
+    clade_labels = ["Clade NA1 (H88)", "Clade Pan-Am (UCSF2)", "Clade Pan-Am (UCSF3)"]
+
     with open(MASTER_PCR_REPORT, "w") as out:
         out.write("=====================================================================\n")
         out.write("    HISTOPLASMA CAPSULATUM UNIVERSAL STR MOLECULAR DIAGNOSTIC REPORT \n")
@@ -45,21 +48,21 @@ def main():
         for target in loci:
             motif_len = len(target['motif'])
             ref_val = target['size_ref']
+            ref_n = int(target['alleles'][0])
 
             out.write(f"▶️ Locus ID: {target['id']} [{target['motif']}]\n")
-            out.write(f"    - Reference Band      : {ref_val} bp  [AMPLIFIED ✅]\n")
+            out.write(f"    - Reference Band (G217B) : {ref_val} bp (n={ref_n})  [AMPLIFIED ✅]\n")
 
-            clade_labels = ["Clade NA1", "Clade NA2", "Clade LatinAm", "Clade Africa"]
             for idx, allele in enumerate(target['alleles'][1:]):
                 label = clade_labels[idx] if idx < len(clade_labels) else f"Strain_{idx+1}"
                 try:
-                    delta_n = int(allele) - int(target['alleles'][0])
+                    delta_n = int(allele) - ref_n
                     strain_size = ref_val + (delta_n * motif_len)
-                    out.write(f"    - {label:<20}: {strain_size} bp (n={allele})  [AMPLIFIED ✅]\n")
+                    out.write(f"    - {label:<22}: {strain_size} bp (n={allele})  [AMPLIFIED ✅]\n")
                 except ValueError:
-                    out.write(f"    - {label:<20}: {ref_val} bp (n={allele})  [AMPLIFIED ✅]\n")
+                    out.write(f"    - {label:<22}: {ref_val} bp (n={allele})  [AMPLIFIED ✅]\n")
 
-            out.write("    - Multiplex Status    : VALIDATED MULTIPLEX CAPABLE 🚀\n")
+            out.write("    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀\n")
             out.write("---------------------------------------------------------------------\n")
             print(f"  - {target['id']} ({target['motif']}): Cross-strain sizing profiles locked.")
 

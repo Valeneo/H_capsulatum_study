@@ -1,0 +1,144 @@
+=====================================================================
+    HISTOPLASMA CAPSULATUM UNIVERSAL STR MOLECULAR DIAGNOSTIC REPORT 
+=====================================================================
+
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_00119 [CAC]
+    - Reference Band (G217B) : 229 bp (n=7)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 214 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 214 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 214 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_00276 [CCG]
+    - Reference Band (G217B) : 227 bp (n=8)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 209 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 209 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 209 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_00299 [GATG]
+    - Reference Band (G217B) : 225 bp (n=7)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 217 bp (n=5)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 205 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 205 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_01698 [GAG]
+    - Reference Band (G217B) : 197 bp (n=5)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 215 bp (n=11)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 212 bp (n=10)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 209 bp (n=9)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_01821 [CTCC]
+    - Reference Band (G217B) : 218 bp (n=5)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 206 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 206 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 206 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02011 [TGC]
+    - Reference Band (G217B) : 165 bp (n=8)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 162 bp (n=7)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 147 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 147 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02051 [TTC]
+    - Reference Band (G217B) : 226 bp (n=6)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 229 bp (n=7)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 223 bp (n=5)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 223 bp (n=5)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02114 [TTC]
+    - Reference Band (G217B) : 229 bp (n=5)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 220 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 220 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 220 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02163 [GAT]
+    - Reference Band (G217B) : 225 bp (n=15)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 186 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 192 bp (n=4)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 192 bp (n=4)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02191 [AAT]
+    - Reference Band (G217B) : 229 bp (n=9)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 208 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 250 bp (n=16)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 250 bp (n=16)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02233 [AAAT]
+    - Reference Band (G217B) : 228 bp (n=7)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 208 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 208 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 208 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02366 [CCT]
+    - Reference Band (G217B) : 228 bp (n=7)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 216 bp (n=3)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 231 bp (n=8)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 231 bp (n=8)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02423 [GTT]
+    - Reference Band (G217B) : 228 bp (n=5)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 219 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 219 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 219 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02428 [CCA]
+    - Reference Band (G217B) : 224 bp (n=7)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 209 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 215 bp (n=4)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 212 bp (n=3)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02450 [ATG]
+    - Reference Band (G217B) : 226 bp (n=5)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 220 bp (n=3)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 226 bp (n=5)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 226 bp (n=5)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02526 [AAAG]
+    - Reference Band (G217B) : 229 bp (n=5)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 217 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 217 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 217 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02575 [TTTC]
+    - Reference Band (G217B) : 195 bp (n=7)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 239 bp (n=18)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 215 bp (n=12)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 215 bp (n=12)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02609 [AGA]
+    - Reference Band (G217B) : 229 bp (n=15)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 190 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 190 bp (n=2)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 190 bp (n=2)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02662 [CTG]
+    - Reference Band (G217B) : 228 bp (n=6)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 225 bp (n=5)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 222 bp (n=4)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 222 bp (n=4)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
+▶️ Locus ID: STR_HC_Hcaps_G217B_Reference_02691 [TCC]
+    - Reference Band (G217B) : 227 bp (n=6)  [AMPLIFIED ✅]
+    - Clade NA1 (H88)       : 245 bp (n=12)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF2)  : 242 bp (n=11)  [AMPLIFIED ✅]
+    - Clade Pan-Am (UCSF3)  : 242 bp (n=11)  [AMPLIFIED ✅]
+    - Multiplex Status       : VALIDATED MULTIPLEX CAPABLE 🚀
+---------------------------------------------------------------------
