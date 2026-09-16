@@ -1,0 +1,15 @@
+# Large Genomic Raw Data Archives (240 GB)
+wgs/
+temp_assemble/
+blast/databases/
+
+# Temporary and log files
+*.log
+*.aria2
+*.tmp
+.xdp-*
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class

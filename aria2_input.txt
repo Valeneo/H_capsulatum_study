@@ -1,0 +1,459 @@
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905399/SRR29905399
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905399
+  out=SRR29905399.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905400/SRR29905400
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905400
+  out=SRR29905400.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905401/SRR29905401
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905401
+  out=SRR29905401.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905402/SRR29905402
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905402
+  out=SRR29905402.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905403/SRR29905403
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905403
+  out=SRR29905403.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905404/SRR29905404
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905404
+  out=SRR29905404.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905405/SRR29905405
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905405
+  out=SRR29905405.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905406/SRR29905406
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905406
+  out=SRR29905406.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905407/SRR29905407
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905407
+  out=SRR29905407.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905408/SRR29905408
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905408
+  out=SRR29905408.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905409/SRR29905409
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905409
+  out=SRR29905409.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905410/SRR29905410
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905410
+  out=SRR29905410.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905411/SRR29905411
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905411
+  out=SRR29905411.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905412/SRR29905412
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905412
+  out=SRR29905412.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR31797080/SRR31797080
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR31797080
+  out=SRR31797080.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905427/SRR29905427
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905427
+  out=SRR29905427.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905426/SRR29905426
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905426
+  out=SRR29905426.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905425/SRR29905425
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905425
+  out=SRR29905425.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905424/SRR29905424
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905424
+  out=SRR29905424.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905423/SRR29905423
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905423
+  out=SRR29905423.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905422/SRR29905422
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905422
+  out=SRR29905422.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905421/SRR29905421
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905421
+  out=SRR29905421.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905420/SRR29905420
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905420
+  out=SRR29905420.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905418/SRR29905418
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905418
+  out=SRR29905418.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905419/SRR29905419
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905419
+  out=SRR29905419.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905416/SRR29905416
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905416
+  out=SRR29905416.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905417/SRR29905417
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905417
+  out=SRR29905417.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905415/SRR29905415
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905415
+  out=SRR29905415.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905414/SRR29905414
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905414
+  out=SRR29905414.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR29905413/SRR29905413
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR29905413
+  out=SRR29905413.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/ERR7414368/ERR7414368
+  dir=/home/valeneo/Dev/Academia/str/wgs/ERR7414368
+  out=ERR7414368.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059726/SRR21059726
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059726
+  out=SRR21059726.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059727/SRR21059727
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059727
+  out=SRR21059727.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059728/SRR21059728
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059728
+  out=SRR21059728.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059729/SRR21059729
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059729
+  out=SRR21059729.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059730/SRR21059730
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059730
+  out=SRR21059730.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059731/SRR21059731
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059731
+  out=SRR21059731.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059732/SRR21059732
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059732
+  out=SRR21059732.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059733/SRR21059733
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059733
+  out=SRR21059733.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059734/SRR21059734
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059734
+  out=SRR21059734.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059735/SRR21059735
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059735
+  out=SRR21059735.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059736/SRR21059736
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059736
+  out=SRR21059736.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059737/SRR21059737
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059737
+  out=SRR21059737.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059738/SRR21059738
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059738
+  out=SRR21059738.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059739/SRR21059739
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059739
+  out=SRR21059739.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24516101/SRR24516101
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR24516101
+  out=SRR24516101.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24516102/SRR24516102
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR24516102
+  out=SRR24516102.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24516103/SRR24516103
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR24516103
+  out=SRR24516103.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24516104/SRR24516104
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR24516104
+  out=SRR24516104.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24516105/SRR24516105
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR24516105
+  out=SRR24516105.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR24516106/SRR24516106
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR24516106
+  out=SRR24516106.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580033/SRR25580033
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580033
+  out=SRR25580033.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580034/SRR25580034
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580034
+  out=SRR25580034.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580035/SRR25580035
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580035
+  out=SRR25580035.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580036/SRR25580036
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580036
+  out=SRR25580036.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580037/SRR25580037
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580037
+  out=SRR25580037.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580038/SRR25580038
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580038
+  out=SRR25580038.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580039/SRR25580039
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580039
+  out=SRR25580039.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580040/SRR25580040
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580040
+  out=SRR25580040.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580041/SRR25580041
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580041
+  out=SRR25580041.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580042/SRR25580042
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580042
+  out=SRR25580042.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580043/SRR25580043
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580043
+  out=SRR25580043.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580044/SRR25580044
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580044
+  out=SRR25580044.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580045/SRR25580045
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580045
+  out=SRR25580045.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580046/SRR25580046
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580046
+  out=SRR25580046.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580047/SRR25580047
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580047
+  out=SRR25580047.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580048/SRR25580048
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580048
+  out=SRR25580048.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580049/SRR25580049
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580049
+  out=SRR25580049.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580050/SRR25580050
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580050
+  out=SRR25580050.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580051/SRR25580051
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580051
+  out=SRR25580051.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580052/SRR25580052
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580052
+  out=SRR25580052.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580053/SRR25580053
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580053
+  out=SRR25580053.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580054/SRR25580054
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580054
+  out=SRR25580054.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580055/SRR25580055
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580055
+  out=SRR25580055.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580071/SRR25580071
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580071
+  out=SRR25580071.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580070/SRR25580070
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580070
+  out=SRR25580070.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580069/SRR25580069
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580069
+  out=SRR25580069.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580068/SRR25580068
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580068
+  out=SRR25580068.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580067/SRR25580067
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580067
+  out=SRR25580067.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580066/SRR25580066
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580066
+  out=SRR25580066.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580065/SRR25580065
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580065
+  out=SRR25580065.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580064/SRR25580064
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580064
+  out=SRR25580064.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580063/SRR25580063
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580063
+  out=SRR25580063.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580062/SRR25580062
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580062
+  out=SRR25580062.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580061/SRR25580061
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580061
+  out=SRR25580061.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580060/SRR25580060
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580060
+  out=SRR25580060.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580059/SRR25580059
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580059
+  out=SRR25580059.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580058/SRR25580058
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580058
+  out=SRR25580058.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580057/SRR25580057
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580057
+  out=SRR25580057.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR25580056/SRR25580056
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR25580056
+  out=SRR25580056.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13433402/SRR13433402
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR13433402
+  out=SRR13433402.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13433424/SRR13433424
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR13433424
+  out=SRR13433424.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13508696/SRR13508696
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR13508696
+  out=SRR13508696.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR13508697/SRR13508697
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR13508697
+  out=SRR13508697.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR20306115/SRR20306115
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR20306115
+  out=SRR20306115.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059740/SRR21059740
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059740
+  out=SRR21059740.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059741/SRR21059741
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059741
+  out=SRR21059741.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059742/SRR21059742
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059742
+  out=SRR21059742.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059743/SRR21059743
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059743
+  out=SRR21059743.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059744/SRR21059744
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059744
+  out=SRR21059744.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059745/SRR21059745
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059745
+  out=SRR21059745.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059746/SRR21059746
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059746
+  out=SRR21059746.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059747/SRR21059747
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059747
+  out=SRR21059747.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059748/SRR21059748
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059748
+  out=SRR21059748.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059749/SRR21059749
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059749
+  out=SRR21059749.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059750/SRR21059750
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059750
+  out=SRR21059750.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059751/SRR21059751
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059751
+  out=SRR21059751.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059752/SRR21059752
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059752
+  out=SRR21059752.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059753/SRR21059753
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059753
+  out=SRR21059753.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059754/SRR21059754
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059754
+  out=SRR21059754.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059755/SRR21059755
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059755
+  out=SRR21059755.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059756/SRR21059756
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059756
+  out=SRR21059756.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059757/SRR21059757
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059757
+  out=SRR21059757.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059758/SRR21059758
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059758
+  out=SRR21059758.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059759/SRR21059759
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059759
+  out=SRR21059759.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059760/SRR21059760
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059760
+  out=SRR21059760.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059761/SRR21059761
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059761
+  out=SRR21059761.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059762/SRR21059762
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059762
+  out=SRR21059762.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059763/SRR21059763
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059763
+  out=SRR21059763.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059764/SRR21059764
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059764
+  out=SRR21059764.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059765/SRR21059765
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059765
+  out=SRR21059765.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059766/SRR21059766
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059766
+  out=SRR21059766.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059767/SRR21059767
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059767
+  out=SRR21059767.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059768/SRR21059768
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059768
+  out=SRR21059768.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059769/SRR21059769
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059769
+  out=SRR21059769.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059770/SRR21059770
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059770
+  out=SRR21059770.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059771/SRR21059771
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059771
+  out=SRR21059771.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059772/SRR21059772
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059772
+  out=SRR21059772.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR21059773/SRR21059773
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR21059773
+  out=SRR21059773.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR6243639/SRR6243639
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR6243639
+  out=SRR6243639.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084704/SRR8084704
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084704
+  out=SRR8084704.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084705/SRR8084705
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084705
+  out=SRR8084705.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084706/SRR8084706
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084706
+  out=SRR8084706.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084707/SRR8084707
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084707
+  out=SRR8084707.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084720/SRR8084720
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084720
+  out=SRR8084720.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084721/SRR8084721
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084721
+  out=SRR8084721.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084719/SRR8084719
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084719
+  out=SRR8084719.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084718/SRR8084718
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084718
+  out=SRR8084718.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084717/SRR8084717
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084717
+  out=SRR8084717.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084716/SRR8084716
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084716
+  out=SRR8084716.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084715/SRR8084715
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084715
+  out=SRR8084715.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084714/SRR8084714
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084714
+  out=SRR8084714.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084713/SRR8084713
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084713
+  out=SRR8084713.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084712/SRR8084712
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084712
+  out=SRR8084712.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084711/SRR8084711
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084711
+  out=SRR8084711.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084710/SRR8084710
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084710
+  out=SRR8084710.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084709/SRR8084709
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084709
+  out=SRR8084709.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8084708/SRR8084708
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8084708
+  out=SRR8084708.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8347492/SRR8347492
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8347492
+  out=SRR8347492.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR8426586/SRR8426586
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR8426586
+  out=SRR8426586.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR6243645/SRR6243645
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR6243645
+  out=SRR6243645.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR6243646/SRR6243646
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR6243646
+  out=SRR6243646.sra
+https://sra-pub-run-odp.s3.amazonaws.com/sra/SRR6243643/SRR6243643
+  dir=/home/valeneo/Dev/Academia/str/wgs/SRR6243643
+  out=SRR6243643.sra
