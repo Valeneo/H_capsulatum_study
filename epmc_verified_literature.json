@@ -1,0 +1,167 @@
+{
+  "PRJNA1003095": {
+    "id": "38465644",
+    "pmid": "38465644",
+    "pmcid": "PMC10930103",
+    "doi": "10.1080/22221751.2024.2315960",
+    "title": "Tracing histoplasmosis genomic epidemiology and species occurrence across the USA.",
+    "authors": "Ten\u00f3rio BG, Kollath DR, Gade L, Litvintseva AP, Chiller T, Jenness JS, Stajich JE, Matute DR, Hanzlicek AS, Barker BM, Teixeira MM.",
+    "journal": "Emerg Microbes Infect",
+    "year": "2024",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA868688": {
+    "id": "PPR703366",
+    "pmid": "N/A",
+    "pmcid": "N/A",
+    "doi": "10.20944/preprints202308.0338.v1",
+    "title": "Phylogeographic Description of <em>Histoplasma capsulatum</em>, United States",
+    "authors": "Bagal UR, Gade L, Benedict K, Howell V, Christophe N, Gibbons-Burgener S, Hallyburton S, Ireland M, McCracken S, Metobo AK, Signs K, Warren KA, Litvintseva AP, Chow NA.",
+    "journal": null,
+    "year": "2023",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA1109714": {
+    "id": "42080511",
+    "pmid": "42080511",
+    "pmcid": "PMC13334192",
+    "doi": "10.1093/g3journal/jkag118",
+    "title": "Genome dynamics and chromosome structural variations in Histoplasma ohiense, a fungal pathogen of humans.",
+    "authors": "Heater S, Voorhies M, Sil A.",
+    "journal": "G3 (Bethesda)",
+    "year": "2026",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA497408": {
+    "id": "40453382",
+    "pmid": "40453382",
+    "pmcid": "PMC12125600",
+    "doi": "10.3897/imafungus.16.145658",
+    "title": "\ufeffPotential predictive value of phylogenetic novelties in clinical fungi, illustrated by &lt;i&gt;Histoplasma&lt;/i&gt;.",
+    "authors": "Quan Y, Zhou X, Belmonte-Lopes R, Li N, Wahyuningsih R, Chowdhary A, Hawksworth DL, Stielow JB, Walsh TJ, Zhang S, Teixeira MM, Matute D, de Hoog S, Wu D.",
+    "journal": "IMA Fungus",
+    "year": "2025",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA971667": {
+    "id": "40928299",
+    "pmid": "40928299",
+    "pmcid": "PMC12505909",
+    "doi": "10.1128/mbio.02234-25",
+    "title": "Chemical stimuli override a temperature-dependent morphological program by reprogramming the transcriptome of a fungal pathogen.",
+    "authors": "Assa D, Voorhies M, Sil A.",
+    "journal": "mBio",
+    "year": "2025",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA416769": {
+    "id": "41592676",
+    "pmid": "41592676",
+    "pmcid": "PMC13036692",
+    "doi": "10.1016/j.fgb.2026.104057",
+    "title": "The dynamics of transposable element content in the genome of the human pathogen Histoplasma.",
+    "authors": "Kurbessoian T, Turissini DA, Kelly PW, Kompathoum O, Rader JA, Jofre GI, Li J, Sutherland M, Sep\u00falveda VE, Matute DR.",
+    "journal": "Fungal Genet Biol",
+    "year": "2026",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA1063273": {
+    "id": "36281339",
+    "pmid": "36281339",
+    "pmcid": "PMC9582387",
+    "doi": "10.1007/s12281-022-00446-w",
+    "title": "Epidemiology of Invasive Fungal Infections in Solid Organ Transplant Recipients: an Indian Perspective.",
+    "authors": "Sharma M, Rudramurthy SM, Chakrabarti A.",
+    "journal": "Curr Fungal Infect Rep",
+    "year": "2022",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJEB48906": {
+    "id": "38993488",
+    "pmid": "38993488",
+    "pmcid": "PMC11238259",
+    "doi": "10.3389/fmicb.2024.1418530",
+    "title": "Histoplasmosis in patients living with HIV in Europe: review of literature.",
+    "authors": "Kontogiannis D, Di Lorenzo A, Za\u00e7e D, Benvenuto D, Moccione M, Muratore G, Giacalone ML, Montagnari G, Carnevale L, Mulas T, Coppola L, Campogiani L, Sarmati L, Iannetta M.",
+    "journal": "Front Microbiol",
+    "year": "2024",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA682648": {
+    "id": "42080511",
+    "pmid": "42080511",
+    "pmcid": "PMC13334192",
+    "doi": "10.1093/g3journal/jkag118",
+    "title": "Genome dynamics and chromosome structural variations in Histoplasma ohiense, a fungal pathogen of humans.",
+    "authors": "Heater S, Voorhies M, Sil A.",
+    "journal": "G3 (Bethesda)",
+    "year": "2026",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA682647": {
+    "id": "35089059",
+    "pmid": "35089059",
+    "pmcid": "PMC8725592",
+    "doi": "10.1128/mbio.02574-21",
+    "title": "Chromosome-Level Genome Assembly of a Human Fungal Pathogen Reveals Synteny among Geographically Distinct Species.",
+    "authors": "Voorhies M, Cohen S, Shea TP, Petrus S, Mu\u00f1oz JF, Poplawski S, Goldman WE, Michael TP, Cuomo CA, Sil A, Beyhan S.",
+    "journal": "mBio",
+    "year": "2022",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA682645": {
+    "id": "42080511",
+    "pmid": "42080511",
+    "pmcid": "PMC13334192",
+    "doi": "10.1093/g3journal/jkag118",
+    "title": "Genome dynamics and chromosome structural variations in Histoplasma ohiense, a fungal pathogen of humans.",
+    "authors": "Heater S, Voorhies M, Sil A.",
+    "journal": "G3 (Bethesda)",
+    "year": "2026",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA682644": {
+    "id": "42393688",
+    "pmid": "42393688",
+    "pmcid": "PMC13330059",
+    "doi": "10.1186/s12929-026-01273-8",
+    "title": "Antifungal resistance: from classical mechanisms to the expanding role of acetyltransferases.",
+    "authors": "Werneck SMC, Gouveia-Eufrasio L, de Freitas GJC, de Carvalho DS, da Costa C\u00e9sar I, Rossato L, Bastos RW, Peres NTA, Santos DA.",
+    "journal": "J Biomed Sci",
+    "year": "2026",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA860049": {
+    "id": "39330397",
+    "pmid": "39330397",
+    "pmcid": "PMC11432851",
+    "doi": "10.3390/jof10090637",
+    "title": "Diagnosis of Human Endemic Mycoses Caused by Thermally Dimorphic Fungi: From Classical to Molecular Methods.",
+    "authors": "Garc\u00eda-Mart\u00edn JM, Muro A, Fern\u00e1ndez-Soto P.",
+    "journal": "J Fungi (Basel)",
+    "year": "2024",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA493220": {
+    "id": "32534998",
+    "pmid": "32534998",
+    "pmcid": "N/A",
+    "doi": "10.1016/j.mimet.2020.105981",
+    "title": "Improved serodiagnosis of histoplasmosis by use of deglycosylated extracellular released antigens of Histoplasma capsulatum.",
+    "authors": "Alvarado P, P\u00e9rez-Rojas Y, Zambrano EA, Gonzatti MI, Roschman-Gonz\u00e1lez A.",
+    "journal": "J Microbiol Methods",
+    "year": "2020",
+    "abstract": "Abstract available in full text"
+  },
+  "PRJNA514096": {
+    "id": "40928299",
+    "pmid": "40928299",
+    "pmcid": "PMC12505909",
+    "doi": "10.1128/mbio.02234-25",
+    "title": "Chemical stimuli override a temperature-dependent morphological program by reprogramming the transcriptome of a fungal pathogen.",
+    "authors": "Assa D, Voorhies M, Sil A.",
+    "journal": "mBio",
+    "year": "2025",
+    "abstract": "Abstract available in full text"
+  }
+}

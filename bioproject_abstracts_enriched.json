@@ -1,0 +1,146 @@
+{
+  "PRJNA1003095": {
+    "pmid": "NCBI SRA",
+    "doi": "N/A",
+    "title": "Genome typing of Histoplasma mississippiense (NAm1), H. ohiense (NAm2) and H. suramericanum (LAmA) isolated from clinical, veterinary and environmental samples in the US.",
+    "journal": "N/A",
+    "year": "N/A",
+    "authors": "N/A",
+    "abstract": "This study addresses the limited molecular epidemiological research on histoplasmosis, a prevalent fungal infection in the USA. Prior studies lacked extensive genetic markers and comprehensive geographic coverage. Here, 62 novel Histoplasma genomes from 19 US states were genotyped, revealing H. mississippiense, H. ohiense, and H. suramericanum as causative agents across both eastern and western regions. No cryptic populations were identified within H. mississippiense and H. ohiense. Human and animal infections were attributed to both species. Distribution models indicated H. mississippiense prevalence in certain states, while H. ohiense exhibited a broader range. Whole genome typing enhanced epidemiological insights, aiding regional genotype predictions and potential clinical phenotype correlations in American histoplasmosis."
+  },
+  "PRJNA868688": {
+    "pmid": "36149012",
+    "doi": "10.1192/bjp.2022.131",
+    "title": "Cognitive trajectories following onset of psychosis: a meta-analysis.",
+    "journal": "Br J Psychiatry",
+    "year": "N/A",
+    "authors": "Watson AJ, Harrison L, Preti A, Wykes T, Cella M",
+    "abstract": "Cognitive impairment is a core feature of schizophrenia, associated with poor functional outcomes. The course of cognitive function in the years following illness onset has remained a subject of debate, with a previous analysis finding no worsening, providing support for the neurodevelopmental model of schizophrenia. Since then, many more studies have reported on longitudinal cognitive performance in early psychosis, with some indicating deterioration, which does not align with this view. This study aims to quantitatively review the literature on the longitudinal trajectory of cognitive deficits in the years following psychosis onset, in comparison with healthy controls. It is the first to also synthesise longitudinal data on social cognition. Electronic databases ('PubMed', 'PsycInfo' and 'Scopus') were searched (to end September 2021). Meta-analyses of 25 longitudinal studies of cognition in early psychosis were conducted (1480 patients, 789 health controls). Unlike previous analyses, randomised controlled trials and those with multiple cognitive testing periods within the first year were excluded to minimise bias (PROSPERO, ID: CRD42021241525). Small improvements were observed for global cognition (g = 0.25, 95% CI 0.17-0.33) and individual cognitive domains, but these were comparable with healthy controls and likely an artefact of practice effects. There is no evidence of continued cognitive decline or improvement in the early years following psychosis onset, with a need for more studies over longer follow-up periods. Practice effects highlight the importance of including control samples in longitudinal and intervention studies. Further data are needed to evaluate the course of social cognition subdomains."
+  },
+  "PRJNA1109714": {
+    "pmid": "38761204",
+    "doi": "10.1148/rg.284075170",
+    "title": "[Radiologically guided interventional therapies for the treatment of neuroendocrine tumors].",
+    "journal": "Radiologie (Heidelb)",
+    "year": "N/A",
+    "authors": "Radosa CG, Nebelung H, Sch\u00f6n F, Hoffmann RT",
+    "abstract": "The majority of patients with neuroendocrine tumors (NET) develop liver metastases during the course of the disease, significantly impacting prognosis and quality of life. Radiologically guided interventional therapies, such as thermal ablation, transarterial embolization (TAE)/chemoembolization (TACE), and selective internal radiotherapy (TARE), can play a\u00a0crucial role in the treatment of metastatic NET. Due to the rarity of the disease, the majority of evidence is based on retrospective studies. For thermal ablation, the complete response rates ranging from 31.6\u00a0to 95.3% depending on the study. No significant differences in outcomes were found between TAE, TACE, and TARE. In several studies, all intra-arterial procedures led to a\u00a0reduction of tumor-related symptoms and achieved disease control. Thermal ablation can be used as a\u00a0curative therapy in oligometastatic patients with nonresectable liver metastases from NETs. In cases of disseminated liver metastases, intra-arterial therapy using TAE, TACE, or TARE can be employed. HINTERGRUND: Die Mehrzahl der Patient*innen mit neuroendokrinen Tumoren (NET) bilden im Verlauf der Krankheit Lebermetastasen aus, welche die Prognose sowie die Lebensqualit\u00e4t deutlich verschlechtern. Radiologisch-interventionelle Therapieverfahren, wie die Thermoablation, die transarterielle Embolisation (TAE)/Chemoembolisation (TACE) und die selektive interne Radiotherapie (transarterielle Radioembolisation, TARE) k\u00f6nnen somit bei der Behandlung des metastasierten NET eine entscheidende Rolle spielen. Aufgrund der Seltenheit der Erkrankung basiert der Gro\u00dfteil der Evidenz auf retrospektiven Studien. F\u00fcr die Thermoablation konnten je nach Studien komplette Ansprechraten von 31,6\u201395,3\u202f% erreicht werden. Zwischen TAE, TACE und TARE konnte kein signifikanter Unterschied hinsichtlich des Outcomes festgestellt werden. Bei allen intraarteriellen Verfahren konnten in mehreren Studien karzinoidbedingte Symptome verringert und eine Krankheitskontrolle erreicht werden. Die Thermoablation kann als kurative Therapie bei oligometastasierten Patienten mit nichtresektablen Lebermetastasen eines NET eingesetzt werden. Bei disseminierten Lebermetastasen kann eine intraarterielle Therapie mittels TAE, TACE oder TARE durchgef\u00fchrt werden."
+  },
+  "PRJNA497408": {
+    "pmid": "31107221",
+    "doi": "10.3201/eid0901.020220",
+    "title": "Using Big Data to Monitor the Introduction and Spread of Chikungunya, Europe, 2017.",
+    "journal": "Emerg Infect Dis",
+    "year": "N/A",
+    "authors": "Rockl\u00f6v J, Tozan Y, Ramadona A, Sewe MO, Sudre B, Garrido J, de Saint Lary CB, Lohr W, Semenza JC",
+    "abstract": "With regard to fully harvesting the potential of big data, public health lags behind other fields. To determine this potential, we applied big data (air passenger volume from international areas with active chikungunya transmission, Twitter data, and vectorial capacity estimates of Aedes albopictus mosquitoes) to the 2017 chikungunya outbreaks in Europe to assess the risks for virus transmission, virus importation, and short-range dispersion from the outbreak foci. We found that indicators based on voluminous and velocious data can help identify virus dispersion from outbreak foci and that vector abundance and vectorial capacity estimates can provide information on local climate suitability for mosquitoborne outbreaks. In contrast, more established indicators based on Wikipedia and Google Trends search strings were less timely. We found that a combination of novel and disparate datasets can be used in real time to prevent and control emerging and reemerging infectious diseases."
+  },
+  "PRJNA971667": {
+    "pmid": "37265781",
+    "doi": "10.1016/j.neuron.2020.08.020",
+    "title": "Dynamic models for musical rhythm perception and coordination.",
+    "journal": "Front Comput Neurosci",
+    "year": "N/A",
+    "authors": "Large EW, Roman I, Kim JC, Cannon J, Pazdera JK, Trainor LJ, Rinzel J, Bose A",
+    "abstract": "Rhythmicity permeates large parts of human experience. Humans generate various motor and brain rhythms spanning a range of frequencies. We also experience and synchronize to externally imposed rhythmicity, for example from music and song or from the 24-h light-dark cycles of the sun. In the context of music, humans have the ability to perceive, generate, and anticipate rhythmic structures, for example, \"the beat.\" Experimental and behavioral studies offer clues about the biophysical and neural mechanisms that underlie our rhythmic abilities, and about different brain areas that are involved but many open questions remain. In this paper, we review several theoretical and computational approaches, each centered at different levels of description, that address specific aspects of musical rhythmic generation, perception, attention, perception-action coordination, and learning. We survey methods and results from applications of dynamical systems theory, neuro-mechanistic modeling, and Bayesian inference. Some frameworks rely on synchronization of intrinsic brain rhythms that span the relevant frequency range; some formulations involve real-time adaptation schemes for error-correction to align the phase and frequency of a dedicated circuit; others involve learning and dynamically adjusting expectations to make rhythm tracking predictions. Each of the approaches, while initially designed to answer specific questions, offers the possibility of being integrated into a larger framework that provides insights into our ability to perceive and generate rhythmic patterns."
+  },
+  "PRJNA416769": {
+    "pmid": "29208741",
+    "doi": "10.1101/gr.094052.109",
+    "title": "Genome Sequences Reveal Cryptic Speciation in the Human Pathogen Histoplasma capsulatum.",
+    "journal": "mBio",
+    "year": "N/A",
+    "authors": "Sep\u00falveda VE, M\u00e1rquez R, Turissini DA, Goldman WE, Matute DR",
+    "abstract": "Histoplasma capsulatum is a pathogenic fungus that causes life-threatening lung infections. About 500,000 people are exposed to H.\u00a0capsulatum each year in the United States, and over 60% of the U.S. population has been exposed to the fungus at some point in their life. We performed genome-wide population genetics and phylogenetic analyses with 30 Histoplasma isolates representing four recognized areas where histoplasmosis is endemic and show that the Histoplasma genus is composed of at least four species that are genetically isolated and rarely interbreed. Therefore, we propose a taxonomic rearrangement of the genus.IMPORTANCE The evolutionary processes that give rise to new pathogen lineages are critical to our understanding of how they adapt to new environments and how frequently they exchange genes with each other. The fungal pathogen Histoplasma capsulatum provides opportunities to precisely test hypotheses about the origin of new genetic variation. We find that H.\u00a0capsulatum is composed of at least four different cryptic species that differ genetically and also in virulence. These results have implications for the epidemiology of histoplasmosis because not all Histoplasma species are equivalent in their geographic range and ability to cause disease."
+  },
+  "PRJNA1004889": {
+    "pmid": "37482910",
+    "doi": "10.1093/ndt/gfr486",
+    "title": "Elevated mean arterial pressure is associated with a lower risk of mortality in acute kidney injury patients receiving continuous renal replacement therapy.",
+    "journal": "Ren Fail",
+    "year": "N/A",
+    "authors": "Yi S, Ning L, Xiao H",
+    "abstract": "maintenance of an appropriate mean arterial pressure (MAP) is important for critically ill patients. However, the association between MAP and prognosis in acute kidney injury (AKI) patients receiving continuous renal replacement therapy (CRRT) is thus far unclear. a total of 1,144 AKI patients who had received CRRT between January 2009 and September 2016 were enrolled and their MAP was measured at CRRT initiation. Patients were categorized into four groups (Quartile 1: MAP < 67.3\u2009mmHg; Quartile 2: 67.3\u2009\u2264\u2009MAP < 76.7\u2009mmHg; Quartile 3: 76.7\u2009\u2264\u2009MAP < 86.3\u2009mmHg; Quartile 4: MAP \u2265 86.3\u2009mmHg), and 28- and 90-day mortality rates were compared. our results demonstrate that 204 (72.1%), 187 (63.4%), 174 (62.6%), and 145 (50.3%) deaths occurred in quartiles 1, 2, 3, and 4 within 28\u2009days, respectively (p\u2009<\u20090.001). This trend also exists in 90-day mortality (Quartile 1: 81.3%; Quartile 2: 72.5%; Quartile 3: 72.3%; Quartile 4: 61.1%, p\u2009<\u20090.001). The Kaplan-Meier results indicate that higher MAP is associated with a reduction in 28- and 90-day mortality (both p\u2009<\u20090.001). After adjusting for potential confounders using Cox proportional hazard regression analysis, higher MAP was still associated with a decline in 28 - and 90-day mortality (both p\u2009<\u20090.001). MAP is a valuable parameter for predicting mortality in AKI patients who are receiving CRRT. This study explored the relationship between mean arterial pressure and the risk of mortality in patients with acute kidney injury receiving continuous renal replacement therapy.Elevated mean arterial pressure is associated with a lower risk of mortality in acute kidney injury patients receiving continuous renal replacement therapy."
+  },
+  "PRJNA1063273": {
+    "pmid": "38451290",
+    "doi": "10.1242/dev.194027",
+    "title": "Heterozygous MAP3K20 variants cause ectodermal dysplasia, craniosynostosis, sensorineural hearing loss, and limb anomalies.",
+    "journal": "Hum Genet",
+    "year": "N/A",
+    "authors": "Brooks D, Burke E, Lee S, Eble TN, O'Leary M, Osei-Owusu I, Rehm HL, Dhar SU, Emrick L, Bick D, Nehrebecky M, Macnamara E, Casas-Alba D, Armstrong J, Prat C, Mart\u00ednez-Monseny AF, Palau F, Liu P, Adams D, Lalani S, Rosenfeld JA, Burrage LC",
+    "abstract": "Biallelic pathogenic variants in MAP3K20, which encodes a mitogen-activated protein kinase, are a rare cause of split-hand foot malformation (SHFM), hearing loss, and nail abnormalities or congenital myopathy. However, heterozygous variants in this gene have not been definitively associated with a phenotype. Here, we describe the phenotypic spectrum associated with heterozygous de novo variants in the linker region between the kinase domain and leucine zipper domain of MAP3K20. We report five individuals with diverse clinical features, including craniosynostosis, limb anomalies, sensorineural hearing loss, and ectodermal dysplasia-like phenotypes who have heterozygous de novo variants in this specific region of the gene. These individuals exhibit both shared and unique clinical manifestations, highlighting the complexity and variability of the disorder. We propose that the involvement of MAP3K20 in endothelial-mesenchymal transition provides a plausible etiology of these features. Together, these findings characterize a disorder that both expands the phenotypic spectrum associated with MAP3K20 and highlights the need for further studies on its role in early human development."
+  },
+  "PRJEB48906": {
+    "pmid": "34758661",
+    "doi": "10.1177/19417381211050931",
+    "title": "Clinical Indoor Running Gait Analysis May Not Approximate Outdoor Running Gait Based on Novel Drone Technology.",
+    "journal": "Sports Health",
+    "year": "N/A",
+    "authors": "Lafferty L, Wawrzyniak J, Chambers M, Pagliarulo T, Berg A, Hawila N, Silvis M",
+    "abstract": "Traditional running gait analysis is limited to artificial environments, but whether treadmill running approximates overground running is debated. This study aimed to compare treadmill gait analysis using fixed video with outdoor gait analysis using drone video capture. Measured kinematics would be similar between natural outdoor running and traditional treadmill gait analysis. Crossover study. Level 2. The study population included cross-country, track and field, and recreational athletes with current running mileage of at least 15 km per week. Participants completed segments in indoor and outdoor environments. Indoor running was completed on a treadmill with static video capture, and outdoor segments were obtained via drone on an outdoor track. Three reviewers independently performed clinical gait analysis on footage for 32 runners using kinematic measurements with published acceptable intra- and interrater reliability. Of the 8 kinematic variables measured, 2 were found to have moderate agreement indoor versus outdoor, while 6 had fair to poor agreement. Foot strike at initial contact and rearfoot position at midstance had moderate agreement indoor versus outdoor, with a kappa of 0.54 and 0.49, respectively. The remaining variables: tibial inclination at initial contact, knee flexion angle initial contact, forward trunk lean full gait cycle, knee center position midstance, knee separation midstance, and lateral pelvic drop at midstance were found to have fair to poor agreement, ranging from 0.21 to 0.36. This study suggests that kinematics may differ between natural outdoor running and traditional treadmill gait analysis. Providing recommendations for altering gait based on treadmill gait analysis may prove to be harmful if treadmill analysis does not approximate natural running environments. Drone technology could provide advancement in clinical running recommendations by capturing runners in natural environments."
+  },
+  "PRJNA682648": {
+    "pmid": "NCBI SRA",
+    "doi": "N/A",
+    "title": "Histoplasma capsulatum H88 Genome sequencing and assembly",
+    "journal": "N/A",
+    "year": "N/A",
+    "authors": "N/A",
+    "abstract": "Histoplasma capsulatum, a dimorphic fungal pathogen, is the most common cause of fungal respiratory infections in immunocompetent hosts. Histoplasma is endemic in the Ohio and Mississippi River Valleys in the United States and also distributed worldwide. We re-sequenced five Histoplasma strains (WU24 (NAm 1), G217B (NAm 2), H88 (African), G186AR (Panama), and G184AR (Panama)) using Oxford Nanopore long-read sequencing technology. Here we report the assembly of the H88 strain."
+  },
+  "PRJNA682647": {
+    "pmid": "107003.110",
+    "doi": "N/A",
+    "title": "Histoplasma capsulatum G184AR Genome sequencing and assembly",
+    "journal": "N/A",
+    "year": "N/A",
+    "authors": "N/A",
+    "abstract": "Histoplasma capsulatum, a dimorphic fungal pathogen, is the most common cause of fungal respiratory infections in immunocompetent hosts. Histoplasma is endemic in the Ohio and Mississippi River Valleys in the United States and also distributed worldwide. We re-sequenced five Histoplasma strains (WU24 (NAm 1), G217B (NAm 2), H88 (African), G186AR (Panama), and G184AR (Panama)) using Oxford Nanopore long-read sequencing technology. Here we report the assembly of the G184AR strain."
+  },
+  "PRJNA682645": {
+    "pmid": "NCBI SRA",
+    "doi": "N/A",
+    "title": "Histoplasma capsulatum WU24 Genome sequencing and assembly",
+    "journal": "N/A",
+    "year": "N/A",
+    "authors": "N/A",
+    "abstract": "Histoplasma capsulatum, a dimorphic fungal pathogen, is the most common cause of fungal respiratory infections in immunocompetent hosts. Histoplasma is endemic in the Ohio and Mississippi River Valleys in the United States and also distributed worldwide. We re-sequenced five Histoplasma strains (WU24 (NAm 1), G217B (NAm 2), H88 (African), G186AR (Panama), and G184AR (Panama)) using Oxford Nanopore long-read sequencing technology. Here we report the assembly of the WU24 strain."
+  },
+  "PRJNA682644": {
+    "pmid": "9387229",
+    "doi": "10.1099/00221287-143-11-3513",
+    "title": "Growth-phase-dependent transcriptional regulation of the pcm and surE genes required for stationary-phase survival of Escherichia coli.",
+    "journal": "Microbiology (Reading)",
+    "year": "N/A",
+    "authors": "Li C, Wu PY, Hsieh M",
+    "abstract": "Two neighbouring genes, surE and pcm, at 59 min on the Escherichia coli chromosome are both required for stationary-phase survival. Operon fusions of the putative promoter regions in front of surE (P2) or pcm (P3) with the lacZ reporter gene were constructed to study the transcriptional regulation of pcm and surE. Both promoter regions were able to activate beta-galactosidase activity in a growth-phase-dependent way in either rich or minimal medium. Induction from both promoters reached the highest level in late stationary phase and was independent of the rpoS/katF gene. Spent medium from early as well as late stationary-phase cultures could induce the expression of either promoter even after dialysis or boiling. A high cell density could induce the promoters more rapidly but not to a greater extent. It is proposed that the induction might be correlated with the decline in growth rate of the cells. The induction patterns of either P2 or P3 were very similar. pcm can thus be transcribed from both the P2 and P3 promoters that are regulated in similar ways."
+  },
+  "PRJNA860049": {
+    "pmid": "NCBI SRA",
+    "doi": "N/A",
+    "title": "whole genomes of the BSL-3 fungal species:Blastomyces dermatitidis and Histoplasma capsulatum",
+    "journal": "N/A",
+    "year": "N/A",
+    "authors": "N/A",
+    "abstract": "Based on the quality of genomes online, we need an insight into the whole genomes of the BSL-3 fungal species:Blastomyces dermatitidis and Histoplasma capsulatum for further research"
+  },
+  "PRJNA493220": {
+    "pmid": "NCBI SRA",
+    "doi": "N/A",
+    "title": "Histoplasma capsulatum strain:7090 Genome sequencing and assembly",
+    "journal": "N/A",
+    "year": "N/A",
+    "authors": "N/A",
+    "abstract": "The genome of the Venezuelan strain Histoplasma capsulatum 7090 was sequenced, assembled and annotated to help to understand the antigenic secreted peptidases produced by this fungi"
+  },
+  "PRJNA514096": {
+    "pmid": "31549958",
+    "doi": "10.2174/1872208313666190924162831",
+    "title": "Trends in Biotechnology at the Turn of the Millennium.",
+    "journal": "Recent Pat Biotechnol",
+    "year": "N/A",
+    "authors": "Mozafari M, Tariverdian T, Beynaghi A",
+    "abstract": "The concept of biotechnology has gained wide popularity by the time. There is, of course, some anecdotal evidence as to what topics are currently considered the most prominent and how they can be compared to the common perception of which research topics were considered \"trendy\" years ago. A thorough search of exact time frames can help us quantitatively determine the evolution of prominent biotechnology research topics since the turn of the century. A text data mining approach has been followed to better identify the emerging trends and perspectives in biotechnology, taking a look back at how the focus of research and innovation in biotechnology has shifted, evolved and impacted the human race over the past three decades. The extent of biotechnology today is vast, however, the most important newly developed research themes and patents largely influence human healthcare, affecting hundreds of millions of people who use grafts, devices, diagnostics, treatment and delivery systems. Even if biotechnology is very much focused on healthcare, there is also focus on other specialized concepts, such as biofuel, biocatalyst, food, agriculture and water purification, which have a strong influence on the research topics studied today. We are in the process of developing the practice of medicine through pioneering advances in biotechnology research and innovation. As companies continue to develop emerging treatment strategies (involving gene therapy, stem cells, nanomedicine and new drug delivery systems) that address significant unmet needs, future innovations in biotechnology research will bring exciting new advancements to help millions of more people worldwide."
+  }
+}
