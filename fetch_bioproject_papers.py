@@ -135,3 +135,4 @@ with open("/home/valeneo/Dev/Academia/str/bioproject_abstracts_enriched.json", "
     json.dump(results, f, indent=2)
 
 print("✅ Finished fetching all BioProject abstracts and publications.")
+
