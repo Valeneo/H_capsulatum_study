@@ -1,0 +1,13 @@
+rm(od)
+qw <- histoplasma_183_wgs_comprehensive_phenotypic_metadata
+colnames((qw))
+unique(qw$BioProject)
+PRJNA1004889
+PRJNA868688
+PRJNA971667
+PRJNA682648
+PRJNA860049
+PRJNA497408
+PRJNA493220
+PRJNA514096
+PRJNA682647 PRJNA682645 PRJNA682644

@@ -1,0 +1,135 @@
+{
+  "PRJNA1003095": {
+    "bioproject_id": "PRJNA1003095",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1003095",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA1004889": {
+    "bioproject_id": "PRJNA1004889",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1004889",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA1109714": {
+    "bioproject_id": "PRJNA1109714",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1109714",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": [
+      {
+        "text": "Mapengo RE et al.,",
+        "link": "/pubmed/40762488"
+      }
+    ]
+  },
+  "PRJNA1063273": {
+    "bioproject_id": "PRJNA1063273",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1063273",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJEB48906": {
+    "bioproject_id": "PRJEB48906",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB48906",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA868688": {
+    "bioproject_id": "PRJNA868688",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA868688",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA971667": {
+    "bioproject_id": "PRJNA971667",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA971667",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA682648": {
+    "bioproject_id": "PRJNA682648",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682648",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA682647": {
+    "bioproject_id": "PRJNA682647",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682647",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA682645": {
+    "bioproject_id": "PRJNA682645",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682645",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA682644": {
+    "bioproject_id": "PRJNA682644",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682644",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA860049": {
+    "bioproject_id": "PRJNA860049",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA860049",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA416769": {
+    "bioproject_id": "PRJNA416769",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA416769",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA497408": {
+    "bioproject_id": "PRJNA497408",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA497408",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA493220": {
+    "bioproject_id": "PRJNA493220",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA493220",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  },
+  "PRJNA514096": {
+    "bioproject_id": "PRJNA514096",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA514096",
+    "page_title": "BioProject",
+    "table_metadata": {},
+    "description": "",
+    "linked_publications": []
+  }
+}

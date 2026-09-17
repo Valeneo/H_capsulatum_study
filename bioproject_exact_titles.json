@@ -1,0 +1,162 @@
+{
+  "PRJNA1003095": {
+    "bioproject_id": "PRJNA1003095",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1003095",
+    "html_title": "Genome typing of Histoplasma mississippiense (NAm1), H. ohiense (NAm2) and H. suramericanum (LAmA) isolated from clinical, veterinary and environmental samples in the US.",
+    "html_organism": "Histoplasma sp.",
+    "entrez_project_title": "Genome typing of Histoplasma mississippiense (NAm1), H. ohiense (NAm2) and H. suramericanum (LAmA) isolated from clinical, veterinary and environmental samples in the US.",
+    "entrez_project_name": "Histoplasma sp.",
+    "entrez_project_desc": "This study addresses the limited molecular epidemiological research on histoplasmosis, a prevalent fungal infection in the USA. Prior studies lacked extensive genetic markers and comprehensive geographic coverage. Here, 62 novel Histoplasma genomes from 19 US states were genotyped, revealing H. mississippiense, H. ohiense, and H. suramericanum as causative agents across both eastern and western regions. No cryptic populations were identified within H. mississippiense and H. ohiense. Human and animal infections were attributed to both species. Distribution models indicated H. mississippiense prevalence in certain states, while H. ohiense exhibited a broader range. Whole genome typing enhanced epidemiological insights, aiding regional genotype predictions and potential clinical phenotype correlations in American histoplasmosis.",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA1004889": {
+    "bioproject_id": "PRJNA1004889",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1004889",
+    "html_title": "N/A",
+    "html_organism": "FungID",
+    "entrez_project_title": "FungID",
+    "entrez_project_name": "",
+    "entrez_project_desc": "Fungal identification",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA1109714": {
+    "bioproject_id": "PRJNA1109714",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1109714",
+    "html_title": "African Histoplasma capsulatum genomics",
+    "html_organism": "Histoplasma capsulatum",
+    "entrez_project_title": "African Histoplasma capsulatum genomics",
+    "entrez_project_name": "Histoplasma capsulatum",
+    "entrez_project_desc": "Histoplasma capsulatum is a dimorphic fungus causing the disease histoplasmosis. The study aims to understand how Histoplasma capsulatum isolates from the African continent are genetically related to isolates from other parts of the world.",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA1063273": {
+    "bioproject_id": "PRJNA1063273",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1063273",
+    "html_title": "Histoplasma samples from India, Raw sequence reads",
+    "html_organism": "Histoplasma",
+    "entrez_project_title": "Histoplasma samples from India, Raw sequence reads",
+    "entrez_project_name": "Histoplasma",
+    "entrez_project_desc": "Whole genome sequencing has revolutionized our understanding of microbial diversity, including human pathogens. In the case of fungal pathogens, a limiting factor in understanding the extent of their genetic diversity has been the lack of systematic sampling. In this piece, we show the results of a collection in the Indian subcontinent of the pathogenic fungus Histoplasma, the causal agent of a systemic mycosis. We find that Indian samples of Histoplasma form a distinct clade which is highly differentiated from other Histoplasma species. We also show that the genome of this lineage shows unique signals of natural selection. This work exemplifies how the combination of a robust sampling along with population genetics, and phylogenetics can reveal the precise genetic changes that differentiate lineages of fungal pathogens.",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJEB48906": {
+    "bioproject_id": "PRJEB48906",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJEB48906",
+    "html_title": "Genome sequencing of a clinical isolate of Histoplasma capsulatum from bronchoalveolar lavage of a German HIV infected patient with histoplasmosis",
+    "html_organism": "Histoplsam capsulatum isolate from the lung of a German HIV infected patient with tracvel history to Thailand",
+    "entrez_project_title": "Genome sequencing of a clinical isolate of Histoplasma capsulatum from bronchoalveolar lavage of a German HIV infected patient with histoplasmosis",
+    "entrez_project_name": "Histoplsam capsulatum isolate from the lung of a German HIV infected patient with tracvel history to Thailand",
+    "entrez_project_desc": "Here we provide whole genome sequence data of a clinical isolate of Histoplasma capsulatum from the lung of a German HIV infected patient with pulmonary histoplasmosis and travel history to Thailand, sequenced on Illumina MiSeq and Minion instrument.",
+    "entrez_data_type": "Other"
+  },
+  "PRJNA868688": {
+    "bioproject_id": "PRJNA868688",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA868688",
+    "html_title": "N/A",
+    "html_organism": "Genomic Epidemiology of Histoplasma capsulatum isolates from US states",
+    "entrez_project_title": "Genomic Epidemiology of Histoplasma capsulatum isolates from US states",
+    "entrez_project_name": "",
+    "entrez_project_desc": "Molecular epidemiology of isolates collected from 8 US states studied in an enhanced surveillance project",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA971667": {
+    "bioproject_id": "PRJNA971667",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA971667",
+    "html_title": "N/A",
+    "html_organism": "Recyclable CRISPR/Cas9 mediated gene disruption and deletions in Histoplasma",
+    "entrez_project_title": "Recyclable CRISPR/Cas9 mediated gene disruption and deletions in Histoplasma",
+    "entrez_project_name": "",
+    "entrez_project_desc": "Targeted gene disruption is challenging in the dimorphic fungal pathogen Histoplasma capsulatum due to the low frequency of homologous recombination. Transformed DNA is either integrated ectopically into the genome or maintained extra chromosomally by the de novo addition of telomeric sequences. Based on a system developed in Blastomyces, we adapted a CRISPR/Cas9 system to facilitate targeted gene disruption in Histoplasma with high efficiency. We express a codon-optimized version of Cas9 as well as guide RNAs from a single ectopic vector carrying a selectable marker. Once the desired mutation is verified, one can screen for isolates that have lost the Cas9 vector by simply removing the selective pressure. Multiple mutations can then be generated in the same strain by retransforming the Cas9 vector carrying different guides. We used this system to disrupt a number of target genes including RYP2 and SRE1 where loss-of-function mutations could be monitored visually by colony morphology or color, respectively. Interestingly, expression of two guide RNAs recognizing the 5' and 3' ends of a gene allowed isolation of deletion mutants where the sequence between the guide RNAs was removed from the genome, thereby generating deletion mutants. Whole-genome sequencing showed that the frequency of off-target mutations associated with the Cas9 nuclease was negligible. Finally, we increased the frequency of gene disruption by using an endogenous Histoplasma regulatory sequence to drive guide RNA expression. These tools transform our ability to generate targeted mutations in Histoplasma.",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA682648": {
+    "bioproject_id": "PRJNA682648",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682648",
+    "html_title": "Histoplasma capsulatum H88 Genome sequencing and assembly",
+    "html_organism": "Histoplasma capsulatum var. duboisii H88",
+    "entrez_project_title": "Histoplasma capsulatum H88 Genome sequencing and assembly",
+    "entrez_project_name": "Histoplasma capsulatum var. duboisii H88",
+    "entrez_project_desc": "Histoplasma capsulatum, a dimorphic fungal pathogen, is the most common cause of fungal respiratory infections in immunocompetent hosts. Histoplasma is endemic in the Ohio and Mississippi River Valleys in the United States and also distributed worldwide. We re-sequenced five Histoplasma strains (WU24 (NAm 1), G217B (NAm 2), H88 (African), G186AR (Panama), and G184AR (Panama)) using Oxford Nanopore long-read sequencing technology. Here we report the assembly of the H88 strain.",
+    "entrez_data_type": "Genome sequencing and assembly"
+  },
+  "PRJNA682647": {
+    "bioproject_id": "PRJNA682647",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682647",
+    "html_title": "Histoplasma capsulatum G184AR Genome sequencing and assembly",
+    "html_organism": "Histoplasma capsulatum strain:G184AR",
+    "entrez_project_title": "Histoplasma capsulatum G184AR Genome sequencing and assembly",
+    "entrez_project_name": "Histoplasma capsulatum strain:G184AR",
+    "entrez_project_desc": "Histoplasma capsulatum, a dimorphic fungal pathogen, is the most common cause of fungal respiratory infections in immunocompetent hosts. Histoplasma is endemic in the Ohio and Mississippi River Valleys in the United States and also distributed worldwide. We re-sequenced five Histoplasma strains (WU24 (NAm 1), G217B (NAm 2), H88 (African), G186AR (Panama), and G184AR (Panama)) using Oxford Nanopore long-read sequencing technology. Here we report the assembly of the G184AR strain.",
+    "entrez_data_type": "Genome sequencing and assembly"
+  },
+  "PRJNA682645": {
+    "bioproject_id": "PRJNA682645",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682645",
+    "html_title": "Histoplasma capsulatum WU24 Genome sequencing and assembly",
+    "html_organism": "Histoplasma capsulatum strain:WU24",
+    "entrez_project_title": "Histoplasma capsulatum WU24 Genome sequencing and assembly",
+    "entrez_project_name": "Histoplasma capsulatum strain:WU24",
+    "entrez_project_desc": "Histoplasma capsulatum, a dimorphic fungal pathogen, is the most common cause of fungal respiratory infections in immunocompetent hosts. Histoplasma is endemic in the Ohio and Mississippi River Valleys in the United States and also distributed worldwide. We re-sequenced five Histoplasma strains (WU24 (NAm 1), G217B (NAm 2), H88 (African), G186AR (Panama), and G184AR (Panama)) using Oxford Nanopore long-read sequencing technology. Here we report the assembly of the WU24 strain.",
+    "entrez_data_type": "Genome sequencing and assembly"
+  },
+  "PRJNA682644": {
+    "bioproject_id": "PRJNA682644",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA682644",
+    "html_title": "Histoplasma capsulatum G186AR Genome sequencing and assembly",
+    "html_organism": "Histoplasma capsulatum G186AR",
+    "entrez_project_title": "Histoplasma capsulatum G186AR Genome sequencing and assembly",
+    "entrez_project_name": "Histoplasma capsulatum G186AR",
+    "entrez_project_desc": "Histoplasma capsulatum, a dimorphic fungal pathogen, is the most common cause of fungal respiratory infections in immunocompetent hosts. Histoplasma is endemic in the Ohio and Mississippi River Valleys in the United States and also distributed worldwide. We re-sequenced five Histoplasma strains (WU24 (NAm 1), G217B (NAm 2), H88 (African), G186AR (Panama), and G184AR (Panama)) using Oxford Nanopore long-read sequencing technology. Here we report the assembly of the G186AR strain.",
+    "entrez_data_type": "Genome sequencing and assembly"
+  },
+  "PRJNA860049": {
+    "bioproject_id": "PRJNA860049",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA860049",
+    "html_title": "N/A",
+    "html_organism": "whole genomes of the BSL-3 fungal species:Blastomyces dermatitidis and Histoplasma capsulatum",
+    "entrez_project_title": "whole genomes of the BSL-3 fungal species:Blastomyces dermatitidis and Histoplasma capsulatum",
+    "entrez_project_name": "",
+    "entrez_project_desc": "Based on the quality of genomes online, we need an insight into the whole genomes of the BSL-3 fungal species:Blastomyces dermatitidis and Histoplasma capsulatum for further research",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA416769": {
+    "bioproject_id": "PRJNA416769",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA416769",
+    "html_title": "Genome sequences for species in the Histoplasma genus Raw sequence reads",
+    "html_organism": "Histoplasma",
+    "entrez_project_title": "Genome sequences for species in the Histoplasma genus Raw sequence reads",
+    "entrez_project_name": "Histoplasma",
+    "entrez_project_desc": "Genome Sequences Reveal Cryptic Speciation in the Human Pathogen Histoplasma capsulatum",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA497408": {
+    "bioproject_id": "PRJNA497408",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA497408",
+    "html_title": "Histoplasma capsulatum Raw sequence reads",
+    "html_organism": "Histoplasma suramericanum breed:RJ",
+    "entrez_project_title": "Histoplasma capsulatum Raw sequence reads",
+    "entrez_project_name": "Histoplasma suramericanum breed:RJ",
+    "entrez_project_desc": "Histoplasmosis is a disease with high mortality in HIV/AIDS patients. The etiologic agents, Histoplasma capsulatum, H. suramericanum, H. ohiense and H. mississippiense are fungal pathogens with a worldwide distribution. H. suramericanum (formerly named LAm A) is highly endemic in Brazil and responsible for thousands of deaths in HIV/AIDS patients. The main goal of the present project is to understand the monophyletic origin of H. suramericanum (RJ population) using phylogenomics and population genetics approaches on fully sequenced genomes from clinical and environmental isolates.",
+    "entrez_data_type": "Raw sequence reads"
+  },
+  "PRJNA493220": {
+    "bioproject_id": "PRJNA493220",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA493220",
+    "html_title": "Histoplasma capsulatum strain:7090 Genome sequencing and assembly",
+    "html_organism": "Histoplasma capsulatum strain:7090",
+    "entrez_project_title": "Histoplasma capsulatum strain:7090 Genome sequencing and assembly",
+    "entrez_project_name": "Histoplasma capsulatum strain:7090",
+    "entrez_project_desc": "The genome of the Venezuelan strain Histoplasma capsulatum 7090 was sequenced, assembled and annotated to help to understand the antigenic secreted peptidases produced by this fungi",
+    "entrez_data_type": "Genome sequencing and assembly"
+  },
+  "PRJNA514096": {
+    "bioproject_id": "PRJNA514096",
+    "ncbi_url": "https://www.ncbi.nlm.nih.gov/bioproject/PRJNA514096",
+    "html_title": "N/A",
+    "html_organism": "Whole genome sequencing of Histoplasma capsulatum SG1 yeast-locked mutant strain",
+    "entrez_project_title": "Whole genome sequencing of Histoplasma capsulatum SG1 yeast-locked mutant strain",
+    "entrez_project_name": "",
+    "entrez_project_desc": "Dimorphic fungi are temperature-sensitive organisms that couple their cell shape with their environment. One of these fungi, Histoplasma capsulatum, exists as both a soil-dwelling hypha and a host-associated yeast. We performed a genetic screen based on insertion of a mobile element (T-DNA) to identify mutants that are unable to transition from the yeast form to the hyphal form. Here, we performed paired-end deep sequencing of the SG1 yeast-locked mutant strain in order to determine the site and nature of the T-DNA insertion.",
+    "entrez_data_type": "Raw sequence reads"
+  }
+}
