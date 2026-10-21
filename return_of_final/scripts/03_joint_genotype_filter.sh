@@ -4,7 +4,7 @@ set -euo pipefail
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 export PATH="$HOME/miniconda3/envs/hcap/bin:$PATH"
 REF="$ROOT/reference/WU24.fa"
-OUT="$ROOT/results/03_joint"; mkdir -p "$OUT"
+OUT="${JOINT_OUT:-$ROOT/results/03_joint}"; mkdir -p "$OUT"
 THREADS="${1:-8}"
 
 # 1. Sample map: "name<TAB>path" for every finished gVCF.
