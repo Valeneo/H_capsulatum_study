@@ -1,0 +1,10 @@
+# data and results are large and reproducible from the scripts
+results/
+logs/
+reference/*.fa
+reference/*.fa.*
+reference/*.gz
+reference/*.dict
+reference/*.list
+reference/md5checksums.txt
+.tmp_*
