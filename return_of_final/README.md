@@ -32,3 +32,6 @@ continues where it left off. Run from this folder. Check each step with `python3
 | 8. Phylogeny | `bash scripts/07_phylogeny.sh 20 1000` | hours | |
 
 `run_pipeline.sh` chains all of it unattended, for when the machine is free for a day or more.
+
+**After a shutdown or crash:** run `bash stop.sh` first (clears half-written samples and large temp files), then restart the step.
+Disk: trimmed reads total ~290 GB; once assemblies (step 5) are done they can be deleted (`rm -r results/01_qc/*/*.fastq.gz`).

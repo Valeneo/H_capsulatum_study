@@ -5,10 +5,11 @@ ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 export PATH="$HOME/miniconda3/envs/hcap/bin:$PATH"
 REF="$ROOT/reference/WU24.fa"
 OUT="${JOINT_OUT:-$ROOT/results/03_joint}"; mkdir -p "$OUT"
-THREADS="${1:-8}"
+THREADS="${1:-8}"; mkdir -p "$OUT/tmp"
 
 # 1. Sample map: "name<TAB>path" for every finished gVCF.
 for f in "$ROOT"/results/02_variants/SRR*/SRR*.g.vcf.gz; do
+  [[ -s "$f.tbi" ]] || continue   # index is written last: skip samples still being called
   printf "%s\t%s\n" "$(basename "$f" .g.vcf.gz)" "$f"
 done > "$OUT/sample_map.tsv"
 echo "samples: $(wc -l < "$OUT/sample_map.tsv")"
