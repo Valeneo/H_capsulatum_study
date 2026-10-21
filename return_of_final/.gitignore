@@ -8,3 +8,8 @@ reference/*.dict
 reference/*.list
 reference/md5checksums.txt
 .tmp_*
+busco_downloads/
+reference/databases/
+reference/proteomes/*.gz
+reference/proteomes/*.faa
+!reference/virulence_queries.faa

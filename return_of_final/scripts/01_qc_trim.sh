@@ -14,7 +14,9 @@ TMP="$ROOT/results/01_qc/.tmp_$RUN"
 
 # Idempotent: if the clean reads already exist, do nothing. Lets us re-run the
 # whole batch after a crash without redoing finished samples.
-if [[ -s "$OUT/${RUN}_R1.clean.fastq.gz" && -s "$OUT/${RUN}_R2.clean.fastq.gz" ]]; then
+# The fastp JSON is written last, so it is the only reliable "finished" marker; the FASTQ files can be
+# left half-written by a killed run.
+if [[ -s "$OUT/$RUN.fastp.json" ]]; then
   echo "[$RUN] already done, skipping"; exit 0
 fi
 

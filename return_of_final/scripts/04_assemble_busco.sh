@@ -29,7 +29,7 @@ seqkit stats -a -T "$OUT/$RUN.contigs.fa" > "$OUT/assembly_stats.tsv"
 #    Found complete & single-copy = the assembly really contains that gene. This is a quality gate
 #    (we want >= 95%) and we later reuse these genes as phylogenetic markers.
 busco -i "$OUT/$RUN.contigs.fa" -m genome -l onygenales_odb10 -c "$THREADS" \
-  -o busco --out_path "$OUT" -f >"$OUT/busco.log" 2>&1
+  --download_path "$ROOT/busco_downloads" --offline -o busco --out_path "$OUT" -f >"$OUT/busco.log" 2>&1
 cp "$OUT"/busco/short_summary*.txt "$OUT/busco_summary.txt"
 
 # SPAdes leaves tens of GB of intermediate graphs; drop everything but the contigs.
