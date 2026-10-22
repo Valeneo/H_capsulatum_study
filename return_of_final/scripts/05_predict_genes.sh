@@ -20,4 +20,5 @@ perl /usr/share/augustus/scripts/getAnnoFasta.pl --seqfile="$IN" "$OUT/$RUN.augu
 cat "$OUT"/*.aa | sed "s/^>\(.*\)/>${RUN}|\1/" > "$OUT/$RUN.faa"   # getAnnoFasta chooses its own output name
 rm -f "$OUT"/*.aa "$OUT"/*.codingseq "$OUT"/*.cdsexons
 
+gzip -f "$OUT/$RUN.augustus.gff3"   # the GFF carries the protein sequences as comments; compresses ~5x
 echo "[$RUN] genes: $(grep -c '^>' "$OUT/$RUN.faa")"

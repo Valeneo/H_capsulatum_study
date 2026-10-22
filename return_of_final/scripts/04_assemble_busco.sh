@@ -11,6 +11,11 @@ OUT="$ROOT/results/04_assembly/$RUN"
 mkdir -p "$OUT"
 [[ -s "$OUT/$RUN.contigs.fa" && -s "$OUT/busco_summary.txt" ]] && { echo "[$RUN] already done, skipping"; exit 0; }
 
+# 0. Disk guard: SPAdes writes 20-40 GB of working files per sample. Wait (do not fail) until there is room.
+while (( $(df --output=avail -BG /home | tail -1 | tr -dc 0-9) < 50 )); do
+  echo "[$RUN] waiting for disk space (<50 GB free)"; sleep 120
+done
+
 # 1. SPAdes builds a de Bruijn graph: reads are cut into k-mers, k-mers that overlap by k-1 are joined,
 #    and contigs are paths through the graph (lecture 51-52 assembly theory, but with k-mers instead of whole reads).
 #    --careful: runs a mismatch/short-indel corrector afterwards. We do NOT use --isolate because it assumes
@@ -34,4 +39,16 @@ cp "$OUT"/busco/short_summary*.txt "$OUT/busco_summary.txt"
 
 # SPAdes leaves tens of GB of intermediate graphs; drop everything but the contigs.
 rm -rf "$OUT/spades" "$OUT/busco/run_onygenales_odb10/hmmer_output" "$OUT/busco/run_onygenales_odb10/miniprot_output"
+# Slim BUSCO: keep the protein sequences of single-copy genes (phylogeny input), the full table and the summary.
+BS="$OUT/busco/run_onygenales_odb10"
+rm -f "$BS"/busco_sequences/single_copy_busco_sequences/*.fna "$BS"/busco_sequences/single_copy_busco_sequences/*.gff
+rm -rf "$BS"/busco_sequences/fragmented_busco_sequences "$BS"/busco_sequences/multi_copy_busco_sequences "$BS"/metaeuk_output
+
+# The trimmed reads (1-8 GB) are only needed for alignment (step 2) and assembly (this step). If this sample's gVCF exists
+# (step 2 done) we no longer need them: delete to keep disk use bounded. The raw .sra can always regenerate them.
+if [[ -s "$ROOT/results/02_variants/$RUN/$RUN.g.vcf.gz.tbi" ]]; then
+  rm -f "$IN/${RUN}_R1.clean.fastq.gz" "$IN/${RUN}_R2.clean.fastq.gz"; echo "[$RUN] trimmed reads deleted (gVCF exists)"
+else
+  echo "[$RUN] trimmed reads kept (step 2 not finished for this sample)"
+fi
 echo "[$RUN] done"
