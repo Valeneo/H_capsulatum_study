@@ -51,8 +51,14 @@ gatk --java-options "-Xmx${HC_XMX:-2g}" HaplotypeCaller \
   -ploidy 1 -ERC GVCF -L "$ROOT/reference/nuclear_chromosomes.list" \
   >"$OUT/$RUN.gatk.log" 2>&1
 
-# Disk is scarce and the .sra can always regenerate these reads (step 5 does so just in time), so free them now.
-if [[ "${KEEP_TRIMMED:-0}" != 1 && -s "$OUT/$RUN.g.vcf.gz.tbi" ]]; then
-  rm -f "$IN/${RUN}_R1.clean.fastq.gz" "$IN/${RUN}_R2.clean.fastq.gz"
+# Disk is scarce and the .sra can always regenerate these reads (step 5 does so just in time). But only delete after the
+# sample's results have been VERIFIED (mapping rate, depth, gVCF sample name / chromosomes / haploid genotypes);
+# a sample that fails keeps its reads and is listed in logs/needs_review.txt.
+if [[ "${KEEP_TRIMMED:-0}" != 1 ]]; then
+  if python3 "$ROOT/scripts/99_verify.py" 2 --run "$RUN" >> "$OUT/$RUN.verify.log" 2>&1; then
+    rm -f "$IN/${RUN}_R1.clean.fastq.gz" "$IN/${RUN}_R2.clean.fastq.gz"; echo "[$RUN] verified; trimmed reads deleted"
+  else
+    echo "$RUN stage2 $(grep FAIL "$OUT/$RUN.verify.log" | head -1)" >> "$ROOT/logs/needs_review.txt"; echo "[$RUN] FAILED verification, reads kept, see logs/needs_review.txt"
+  fi
 fi
 echo "[$RUN] done"

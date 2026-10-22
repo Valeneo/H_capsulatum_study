@@ -1,11 +1,12 @@
 """Verify a finished stage against explicit thresholds. Prints one line per failing sample and a summary.
 Usage: python3 scripts/99_verify.py {1|2|3|4}
 """
-import csv, json, pathlib, re, subprocess, sys
+import csv, json, os, pathlib, re, subprocess, sys
 
 root = pathlib.Path(__file__).resolve().parent.parent
 samples = [r["run"] for r in csv.DictReader(open(root / "config/samples.tsv"), delimiter="\t")]
 stage = sys.argv[1]
+if "--run" in sys.argv: samples = [sys.argv[sys.argv.index("--run") + 1]]
 bad, ok = [], 0
 
 def fail(run, why): bad.append(run); print(f"FAIL {run}: {why}")
@@ -27,8 +28,16 @@ for run in samples:
         cov = [l.split("\t") for l in (d / f"{run}.coverage.tsv").read_text().splitlines()[1:] if "CP069113" not in l]
         depth = sum(float(c[6]) * (int(c[2]) - int(c[1]) + 1) for c in cov) / sum(int(c[2]) - int(c[1]) + 1 for c in cov)
         pct = float(m.group(1))
+        env = dict(os.environ, PATH=os.path.expanduser("~/miniconda3/envs/hcap/bin") + ":" + os.environ["PATH"])
+        bq = lambda *a: subprocess.run(["bcftools", "query", *a, str(d / f"{run}.g.vcf.gz")], capture_output=True, text=True, env=env)
+        names = bq("-l").stdout.split(); chroms = set(bq("-f", "%CHROM\n").stdout.split())
+        gts = {g for g in bq("-f", "[%GT]\n").stdout.split() if g not in (".",)}
+        nuclear = set(open(root / "reference/nuclear_chromosomes.list").read().split())
         if pct < 90: fail(run, f"only {pct}% of reads mapped (wrong species, or contamination?)")
         elif depth < 5: fail(run, f"nuclear depth {depth:.1f}x < 5x")
+        elif names != [run]: fail(run, f"gVCF sample name {names} != {run}")
+        elif chroms != nuclear: fail(run, f"gVCF chromosomes {sorted(chroms ^ nuclear)} differ from the nuclear set (mito present or chromosome missing)")
+        elif any("/" in g or "|" in g for g in gts): fail(run, "diploid-style genotypes found in a haploid call")
         else: ok += 1
     elif stage == "3":
         d = root / f"results/04_assembly/{run}"

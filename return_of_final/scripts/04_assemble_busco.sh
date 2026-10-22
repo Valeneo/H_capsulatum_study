@@ -45,9 +45,12 @@ cp "$OUT"/busco/short_summary*.txt "$OUT/busco_summary.txt"
 rm -rf "$OUT/spades" "$OUT/busco/run_onygenales_odb10/hmmer_output" "$OUT/busco/run_onygenales_odb10/miniprot_output"
 # The trimmed reads (1-8 GB) are only needed for alignment (step 2) and assembly (this step). If this sample's gVCF exists
 # (step 2 done) we no longer need them: delete to keep disk use bounded. The raw .sra can always regenerate them.
-if [[ -s "$ROOT/results/02_variants/$RUN/$RUN.g.vcf.gz.tbi" ]]; then
-  rm -f "$IN/${RUN}_R1.clean.fastq.gz" "$IN/${RUN}_R2.clean.fastq.gz"; echo "[$RUN] trimmed reads deleted (gVCF exists)"
+# Delete the regenerated trimmed reads only if BOTH the variant calls (step 2) and this assembly verify.
+if [[ -s "$ROOT/results/02_variants/$RUN/$RUN.g.vcf.gz.tbi" ]] \
+   && python3 "$ROOT/scripts/99_verify.py" 2 --run "$RUN" >/dev/null 2>&1 \
+   && python3 "$ROOT/scripts/99_verify.py" 3 --run "$RUN" >/dev/null 2>&1; then
+  rm -f "$IN/${RUN}_R1.clean.fastq.gz" "$IN/${RUN}_R2.clean.fastq.gz"; echo "[$RUN] verified; trimmed reads deleted"
 else
-  echo "[$RUN] trimmed reads kept (step 2 not finished for this sample)"
+  echo "$RUN stage3 not verified or step 2 missing; reads kept" >> "$ROOT/logs/needs_review.txt"; echo "[$RUN] reads kept (not verified)"
 fi
 echo "[$RUN] done"
