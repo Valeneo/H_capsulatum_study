@@ -42,3 +42,6 @@ space would fall below `DISK_RESERVE_GB` (default 20) plus the step's working sp
 
 **CPU cap:** `bash cap_cpu.sh 50` pins the running pipeline (and everything it spawns) to the highest-numbered logical CPUs, i.e. 10 of 20
 (the 8 E-cores + 1 P-core on this i7-12700H), leaving the fast P-cores free. Re-run it after starting a step from a new shell. `cap_cpu.sh 100` removes the cap.
+
+**Throttling:** `bash throttle.sh keep RUN1 RUN2` keeps only the named step-2 samples running and freezes the rest (nothing lost, frozen memory gets swapped out);
+`bash throttle.sh full` unfreezes everything. Combine with `bash cap_cpu.sh 15` (3 CPUs) for a low-impact trickle, or `bash cap_cpu.sh 50` for the normal cap.
