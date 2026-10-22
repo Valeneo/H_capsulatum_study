@@ -39,3 +39,6 @@ Disk: trimmed reads total ~290 GB; once assemblies (step 5) are done they can be
 **Disk policy (space is scarce, time is not):** nothing is capped or subsampled. Trimmed reads are deleted as soon as a sample's gVCF exists and are
 regenerated from the `.sra` just before assembly (`REGEN=1`), then deleted again. Set `KEEP_TRIMMED=1` to keep them. Guards wait whenever free
 space would fall below `DISK_RESERVE_GB` (default 20) plus the step's working space.
+
+**CPU cap:** `bash cap_cpu.sh 50` pins the running pipeline (and everything it spawns) to the highest-numbered logical CPUs, i.e. 10 of 20
+(the 8 E-cores + 1 P-core on this i7-12700H), leaving the fast P-cores free. Re-run it after starting a step from a new shell. `cap_cpu.sh 100` removes the cap.
