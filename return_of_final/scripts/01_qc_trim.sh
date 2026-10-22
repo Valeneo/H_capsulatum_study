@@ -16,7 +16,7 @@ TMP="$ROOT/results/01_qc/.tmp_$RUN"
 # whole batch after a crash without redoing finished samples.
 # The fastp JSON is written last, so it is the only reliable "finished" marker; the FASTQ files can be
 # left half-written by a killed run.
-if [[ -s "$OUT/$RUN.fastp.json" ]]; then
+if [[ -s "$OUT/$RUN.fastp.json" && -z "${REGEN:-}" ]]; then
   echo "[$RUN] already done, skipping"; exit 0
 fi
 

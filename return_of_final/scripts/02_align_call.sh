@@ -16,7 +16,15 @@ if [[ -s "$OUT/$RUN.g.vcf.gz.tbi" ]]; then echo "[$RUN] already done, skipping";
 
 # Atomic lock: mkdir fails if another batch is already working on this sample.
 mkdir "$OUT/.lock" 2>/dev/null || { echo "[$RUN] being processed elsewhere, skipping"; exit 0; }
+# Disk guard: keep DISK_RESERVE_GB (default 20) free for the system. One sample needs up to ~6 GB of temporary files.
+while (( $(df --output=avail -BG /home | tail -1 | tr -dc 0-9) < ${DISK_RESERVE_GB:-20} + 10 )); do
+  echo "[$RUN] waiting for disk space"; sleep 120
+done
 BAM="$OUT/$RUN.bam"
+# Trimmed reads may have been deleted to save disk; rebuild them from the .sra if so.
+if [[ ! -s "$IN/${RUN}_R1.clean.fastq.gz" || ! -s "$IN/${RUN}_R2.clean.fastq.gz" ]]; then
+  echo "[$RUN] regenerating trimmed reads from the .sra"; REGEN=1 bash "$ROOT/scripts/01_qc_trim.sh" "$RUN" "$THREADS"
+fi
 # BAMs are big and only needed to make the gVCF; delete on exit (keep the small stats files).
 trap 'rm -f "$BAM" "$BAM.bai" "$BAM.csi"; rmdir "$OUT/.lock" 2>/dev/null' EXIT
 
@@ -43,4 +51,8 @@ gatk --java-options "-Xmx${HC_XMX:-2g}" HaplotypeCaller \
   -ploidy 1 -ERC GVCF -L "$ROOT/reference/nuclear_chromosomes.list" \
   >"$OUT/$RUN.gatk.log" 2>&1
 
+# Disk is scarce and the .sra can always regenerate these reads (step 5 does so just in time), so free them now.
+if [[ "${KEEP_TRIMMED:-0}" != 1 && -s "$OUT/$RUN.g.vcf.gz.tbi" ]]; then
+  rm -f "$IN/${RUN}_R1.clean.fastq.gz" "$IN/${RUN}_R2.clean.fastq.gz"
+fi
 echo "[$RUN] done"

@@ -12,8 +12,8 @@ mkdir -p "$OUT"
 [[ -s "$OUT/$RUN.contigs.fa" && -s "$OUT/busco_summary.txt" ]] && { echo "[$RUN] already done, skipping"; exit 0; }
 
 # 0. Disk guard: SPAdes writes 20-40 GB of working files per sample. Wait (do not fail) until there is room.
-while (( $(df --output=avail -BG /home | tail -1 | tr -dc 0-9) < 50 )); do
-  echo "[$RUN] waiting for disk space (<50 GB free)"; sleep 120
+while (( $(df --output=avail -BG /home | tail -1 | tr -dc 0-9) < ${DISK_RESERVE_GB:-20} + ${SPADES_WORK_GB:-40} )); do
+  echo "[$RUN] waiting for disk space (need reserve + SPAdes working space)"; sleep 120
 done
 
 # 1. SPAdes builds a de Bruijn graph: reads are cut into k-mers, k-mers that overlap by k-1 are joined,
@@ -21,6 +21,10 @@ done
 #    --careful: runs a mismatch/short-indel corrector afterwards. We do NOT use --isolate because it assumes
 #    >100x depth; these samples are ~10-30x.
 if [[ ! -s "$OUT/spades/contigs.fasta" ]]; then
+  if [[ ! -s "$IN/${RUN}_R1.clean.fastq.gz" || ! -s "$IN/${RUN}_R2.clean.fastq.gz" ]]; then
+    echo "[$RUN] regenerating trimmed reads from the .sra (they were deleted to save disk)"
+    REGEN=1 bash "$ROOT/scripts/01_qc_trim.sh" "$RUN" "$THREADS"
+  fi
   spades.py --careful -1 "$IN/${RUN}_R1.clean.fastq.gz" -2 "$IN/${RUN}_R2.clean.fastq.gz" \
     -t "$THREADS" -m 10 -o "$OUT/spades" >"$OUT/spades.log" 2>&1
 fi
