@@ -17,7 +17,7 @@ augustus --species=histoplasma_capsulatum --gff3=on --codingseq=on --protein=on 
 
 # Pull the protein sequences out of Augustus's output and give every protein a unique name: <RUN>|<gene>.
 perl /usr/share/augustus/scripts/getAnnoFasta.pl --seqfile="$IN" "$OUT/$RUN.augustus.gff3" >/dev/null 2>&1 || true
-sed "s/^>\(.*\)/>${RUN}|\1/" "$OUT/$RUN.augustus.aa" > "$OUT/$RUN.faa"
-rm -f "$OUT/$RUN.augustus.aa" "$OUT/$RUN.augustus.codingseq"
+cat "$OUT"/*.aa | sed "s/^>\(.*\)/>${RUN}|\1/" > "$OUT/$RUN.faa"   # getAnnoFasta chooses its own output name
+rm -f "$OUT"/*.aa "$OUT"/*.codingseq "$OUT"/*.cdsexons
 
 echo "[$RUN] genes: $(grep -c '^>' "$OUT/$RUN.faa")"
