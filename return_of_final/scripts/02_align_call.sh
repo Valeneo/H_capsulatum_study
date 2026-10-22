@@ -14,9 +14,11 @@ mkdir -p "$OUT"
 
 if [[ -s "$OUT/$RUN.g.vcf.gz.tbi" ]]; then echo "[$RUN] already done, skipping"; exit 0; fi
 
+# Atomic lock: mkdir fails if another batch is already working on this sample.
+mkdir "$OUT/.lock" 2>/dev/null || { echo "[$RUN] being processed elsewhere, skipping"; exit 0; }
 BAM="$OUT/$RUN.bam"
 # BAMs are big and only needed to make the gVCF; delete on exit (keep the small stats files).
-trap 'rm -f "$BAM" "$BAM.bai" "$BAM.csi"' EXIT
+trap 'rm -f "$BAM" "$BAM.bai" "$BAM.csi"; rmdir "$OUT/.lock" 2>/dev/null' EXIT
 
 # 1. Align. -R writes the read group: GATK requires every read to say which sample it came from.
 #    Then fixmate -m (adds mate-score tags that markdup needs; requires name-sorted input, which bwa gives),
@@ -24,8 +26,8 @@ trap 'rm -f "$BAM" "$BAM.bai" "$BAM.csi"' EXIT
 bwa-mem2 mem -t "$THREADS" -R "@RG\tID:$RUN\tSM:$RUN\tPL:ILLUMINA\tLB:$RUN" "$REF" \
     "$IN/${RUN}_R1.clean.fastq.gz" "$IN/${RUN}_R2.clean.fastq.gz" 2>"$OUT/$RUN.bwa.log" \
   | samtools fixmate -m -u - - \
-  | samtools sort -u -@ 4 -T "$OUT/.sorttmp" - \
-  | samtools markdup -@ 4 - "$BAM"
+  | samtools sort -u -@ 2 -m 400M -T "$OUT/.sorttmp" - \
+  | samtools markdup -@ 2 - "$BAM"
 samtools index -@ 4 "$BAM"
 
 # 2. Alignment QC: how many reads placed, and how deep we really sequenced the nuclear genome.

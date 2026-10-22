@@ -4,7 +4,7 @@
 cd "$(dirname "$0")"
 PAT='[s]cripts/0[0-9]|[r]un_pipeline|[x]args -P|[f]astp -i|[f]asterq-dump|[s]pades|[b]wa-mem2|[G]enomicsDBImport|[H]aplotypeCaller|[a]ugustus|[i]qtree2|[m]afft|[b]usco'
 PIDS=$(pgrep -f "$PAT"); [ -n "$PIDS" ] && kill -9 $PIDS 2>/dev/null; sleep 2
-rm -rf results/01_qc/.tmp_* results/02_variants/*/.sorttmp results/02_variants/*/*.bam results/02_variants/*/*.bam.bai
+rm -rf results/01_qc/.tmp_* results/02_variants/*/.sorttmp results/02_variants/*/*.bam results/02_variants/*/*.bam.bai; rm -rf results/02_variants/*/.lock
 # a sample is only finished if its LAST-written file exists; anything else is partial
 for d in results/01_qc/SRR*/;       do r=$(basename $d); [ -s $d$r.fastp.json ]       || rm -rf "$d"; done
 for d in results/02_variants/SRR*/; do r=$(basename $d); [ -s $d$r.g.vcf.gz.tbi ]     || rm -rf "$d"; done
