@@ -39,11 +39,6 @@ cp "$OUT"/busco/short_summary*.txt "$OUT/busco_summary.txt"
 
 # SPAdes leaves tens of GB of intermediate graphs; drop everything but the contigs.
 rm -rf "$OUT/spades" "$OUT/busco/run_onygenales_odb10/hmmer_output" "$OUT/busco/run_onygenales_odb10/miniprot_output"
-# Slim BUSCO: keep the protein sequences of single-copy genes (phylogeny input), the full table and the summary.
-BS="$OUT/busco/run_onygenales_odb10"
-rm -f "$BS"/busco_sequences/single_copy_busco_sequences/*.fna "$BS"/busco_sequences/single_copy_busco_sequences/*.gff
-rm -rf "$BS"/busco_sequences/fragmented_busco_sequences "$BS"/busco_sequences/multi_copy_busco_sequences "$BS"/metaeuk_output
-
 # The trimmed reads (1-8 GB) are only needed for alignment (step 2) and assembly (this step). If this sample's gVCF exists
 # (step 2 done) we no longer need them: delete to keep disk use bounded. The raw .sra can always regenerate them.
 if [[ -s "$ROOT/results/02_variants/$RUN/$RUN.g.vcf.gz.tbi" ]]; then
