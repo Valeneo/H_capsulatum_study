@@ -13,3 +13,4 @@ reference/databases/
 reference/proteomes/*.gz
 reference/proteomes/*.faa
 !reference/virulence_queries.faa
+handoff/
