@@ -1,0 +1,28 @@
+%%{init: {'theme':'base','themeVariables':{'fontFamily':'DejaVu Sans','fontSize':'30px','lineColor':'#5B6B63','primaryTextColor':'#12372A'},'flowchart':{'nodeSpacing':26,'rankSpacing':44,'padding':14,'curve':'basis'}}}%%
+flowchart LR
+    A["<b>DNA isolation<br/>and sequencing</b><br/>183 isolates<br/>Illumina WGS"]
+    B["<b>QC and trimming</b><br/>fastp"]
+    C["<b>Track A: variants</b><br/>bwa-mem2<br/>GATK4, PLINK2"]
+    D["<b>Track B: genomes</b><br/>SPAdes, BUSCO<br/>Augustus, OrthoFinder"]
+    E["<b>Phylogeny</b><br/>IQ-TREE2"]
+    F["<b>Population structure</b><br/>PCA, ADMIXTURE<br/>DAPC"]
+    G["<b>Virulence genes</b><br/>BLAST, HMMER"]
+    H["<b>Integrate</b><br/>lineage, region<br/>and disease"]
+
+    A --> B
+    B --> C
+    B --> D
+    D --> E
+    C --> F
+    C --> G
+    D --> G
+    E --> H
+    F --> H
+    G --> H
+
+    classDef done fill:#2F6B4F,stroke:#12372A,color:#FFFFFF,stroke-width:2px
+    classDef doing fill:#E9A23B,stroke:#B87814,color:#12372A,stroke-width:2px
+    classDef todo fill:#EEF5F0,stroke:#2F6B4F,color:#12372A,stroke-width:2px
+    class A,B done
+    class C doing
+    class D,E,F,G,H todo

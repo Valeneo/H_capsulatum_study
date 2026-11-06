@@ -1,0 +1,184 @@
+Run_Accession,BioProject,Geographic_Origin_original,Geographic_Origin_resolved,status,basis
+SRR25580010,PRJNA1003095,USA: South Carolina,USA: South Carolina,original,original metadata
+SRR25580011,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580012,PRJNA1003095,USA: Virginia,USA: Virginia,original,original metadata
+SRR25580013,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580014,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580015,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580016,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580017,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580018,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580019,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580020,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580021,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580022,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580023,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580024,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580025,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580026,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580027,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580028,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580029,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580030,PRJNA1003095,USA: Oklahoma,USA: Oklahoma,original,original metadata
+SRR25580031,PRJNA1003095,USA: Ohio,USA: Ohio,original,original metadata
+SRR25580032,PRJNA1003095,USA: Ohio,USA: Ohio,original,original metadata
+SRR25636130,PRJNA1004889,"USA: California,Los Angeles","USA: California,Los Angeles",original,original metadata
+SRR25636145,PRJNA1004889,"USA: California,Los Angeles","USA: California,Los Angeles",original,original metadata
+SRR25758805,PRJNA1004889,"USA: California,Los Angeles","USA: California,Los Angeles",original,original metadata
+SRR29905395,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905396,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905397,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905398,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905399,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905400,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905401,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905402,PRJNA1109714,Egypt,Egypt,original,original metadata
+SRR29905403,PRJNA1109714,Gabon,Gabon,original,original metadata
+SRR29905404,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905405,PRJNA1109714,Cote d'Ivoire,Cote d'Ivoire,original,original metadata
+SRR29905406,PRJNA1109714,Democratic Republic of the Congo,Democratic Republic of the Congo,original,original metadata
+SRR29905407,PRJNA1109714,Cameroon,Cameroon,original,original metadata
+SRR29905408,PRJNA1109714,Democratic Republic of the Congo,Democratic Republic of the Congo,original,original metadata
+SRR29905409,PRJNA1109714,Cameroon,Cameroon,original,original metadata
+SRR29905410,PRJNA1109714,Cameroon,Cameroon,original,original metadata
+SRR29905411,PRJNA1109714,Cameroon,Cameroon,original,original metadata
+SRR29905412,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR31797080,PRJNA1063273,India,India,original,original metadata
+SRR29905427,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905426,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905425,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905424,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905423,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905422,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905421,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905420,PRJNA1109714,Cote d'Ivoire,Cote d'Ivoire,original,original metadata
+SRR29905418,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905419,PRJNA1109714,Equatorial Guinea,Equatorial Guinea,original,original metadata
+SRR29905416,PRJNA1109714,Nigeria,Nigeria,original,original metadata
+SRR29905417,PRJNA1109714,Ghana,Ghana,original,original metadata
+SRR29905415,PRJNA1109714,South Africa,South Africa,original,original metadata
+SRR29905414,PRJNA1109714,Ghana,Ghana,original,original metadata
+SRR29905413,PRJNA1109714,Cote d'Ivoire,Cote d'Ivoire,original,original metadata
+ERR7414368,PRJEB48906,Unspecified,Unknown,unresolved,"No BioSample in project files; PRJEB48906 submitter is RKI (Germany), not isolate origin; clade label conflicts (Thailand)"
+SRR21059726,PRJNA868688,USA,USA,original,original metadata
+SRR21059727,PRJNA868688,USA,USA,original,original metadata
+SRR21059728,PRJNA868688,USA,USA,original,original metadata
+SRR21059729,PRJNA868688,USA,USA,original,original metadata
+SRR21059730,PRJNA868688,USA,USA,original,original metadata
+SRR21059731,PRJNA868688,USA,USA,original,original metadata
+SRR21059732,PRJNA868688,USA,USA,original,original metadata
+SRR21059733,PRJNA868688,USA,USA,original,original metadata
+SRR21059734,PRJNA868688,USA,USA,original,original metadata
+SRR21059735,PRJNA868688,USA,USA,original,original metadata
+SRR21059736,PRJNA868688,USA,USA,original,original metadata
+SRR21059737,PRJNA868688,USA,USA,original,original metadata
+SRR21059738,PRJNA868688,USA,USA,original,original metadata
+SRR21059739,PRJNA868688,USA,USA,original,original metadata
+SRR24516101,PRJNA971667,Unspecified,USA,resolved from source record,"BioSample SAMN35051545 geographic location = USA (lab mutant strain, WU15 study PRJNA971667)"
+SRR24516102,PRJNA971667,Unspecified,USA,resolved from source record,"BioSample SAMN35051545 geographic location = USA (lab mutant strain, WU15 study PRJNA971667)"
+SRR24516103,PRJNA971667,Unspecified,USA,resolved from source record,"BioSample SAMN35051545 geographic location = USA (lab mutant strain, WU15 study PRJNA971667)"
+SRR24516104,PRJNA971667,Unspecified,USA,resolved from source record,"BioSample SAMN35051545 geographic location = USA (lab mutant strain, WU15 study PRJNA971667)"
+SRR24516105,PRJNA971667,Unspecified,USA,resolved from source record,"BioSample SAMN35051545 geographic location = USA (lab mutant strain, WU15 study PRJNA971667)"
+SRR24516106,PRJNA971667,Unspecified,USA,resolved from source record,"BioSample SAMN35051545 geographic location = USA (lab mutant strain, WU15 study PRJNA971667)"
+SRR25580033,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580034,PRJNA1003095,USA: Alabama,USA: Alabama,original,original metadata
+SRR25580035,PRJNA1003095,USA: North Dakota,USA: North Dakota,original,original metadata
+SRR25580036,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580037,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580038,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580039,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580040,PRJNA1003095,USA: California,USA: California,original,original metadata
+SRR25580041,PRJNA1003095,USA: North Carolina,USA: North Carolina,original,original metadata
+SRR25580042,PRJNA1003095,USA: North Dakota,USA: North Dakota,original,original metadata
+SRR25580043,PRJNA1003095,USA: California,USA: California,original,original metadata
+SRR25580044,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580045,PRJNA1003095,USA: California,USA: California,original,original metadata
+SRR25580046,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580047,PRJNA1003095,USA: Virginia,USA: Virginia,original,original metadata
+SRR25580048,PRJNA1003095,USA: Texas,USA: Texas,original,original metadata
+SRR25580049,PRJNA1003095,USA,USA,original,original metadata
+SRR25580050,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580051,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580052,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580053,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580054,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580055,PRJNA1003095,USA: Washington,USA: Washington,original,original metadata
+SRR25580071,PRJNA1003095,USA: Alabama,USA: Alabama,original,original metadata
+SRR25580070,PRJNA1003095,USA: Alabama,USA: Alabama,original,original metadata
+SRR25580069,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580068,PRJNA1003095,USA: Louisiana,USA: Louisiana,original,original metadata
+SRR25580067,PRJNA1003095,USA: Tennessee,USA: Tennessee,original,original metadata
+SRR25580066,PRJNA1003095,USA: Mississippi,USA: Mississippi,original,original metadata
+SRR25580065,PRJNA1003095,USA: Arkansas,USA: Arkansas,original,original metadata
+SRR25580064,PRJNA1003095,USA: Colorado,USA: Colorado,original,original metadata
+SRR25580063,PRJNA1003095,USA: Kansas,USA: Kansas,original,original metadata
+SRR25580062,PRJNA1003095,USA: Montana,USA: Montana,original,original metadata
+SRR25580061,PRJNA1003095,USA: Missouri,USA: Missouri,original,original metadata
+SRR25580060,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580059,PRJNA1003095,USA: Georgia,USA: Georgia,original,original metadata
+SRR25580058,PRJNA1003095,India,India,original,original metadata
+SRR25580057,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR25580056,PRJNA1003095,USA: Indiana,USA: Indiana,original,original metadata
+SRR13433402,PRJNA682648,Belgium,Belgium,original,original metadata
+SRR13433424,PRJNA682647,Panama,Panama,original,original metadata
+SRR13508696,PRJNA682645,USA:Missouri,USA:Missouri,original,original metadata
+SRR13508697,PRJNA682644,Panama,Panama,original,original metadata
+SRR20306115,PRJNA860049,China:jiangsu,China:jiangsu,original,original metadata
+SRR21059740,PRJNA868688,USA,USA,original,original metadata
+SRR21059741,PRJNA868688,USA,USA,original,original metadata
+SRR21059742,PRJNA868688,USA,USA,original,original metadata
+SRR21059743,PRJNA868688,USA,USA,original,original metadata
+SRR21059744,PRJNA868688,USA,USA,original,original metadata
+SRR21059745,PRJNA868688,USA,USA,original,original metadata
+SRR21059746,PRJNA868688,USA,USA,original,original metadata
+SRR21059747,PRJNA868688,USA,USA,original,original metadata
+SRR21059748,PRJNA868688,USA,USA,original,original metadata
+SRR21059749,PRJNA868688,USA,USA,original,original metadata
+SRR21059750,PRJNA868688,USA,USA,original,original metadata
+SRR21059751,PRJNA868688,USA,USA,original,original metadata
+SRR21059752,PRJNA868688,USA,USA,original,original metadata
+SRR21059753,PRJNA868688,USA,USA,original,original metadata
+SRR21059754,PRJNA868688,USA,USA,original,original metadata
+SRR21059755,PRJNA868688,USA,USA,original,original metadata
+SRR21059756,PRJNA868688,USA,USA,original,original metadata
+SRR21059757,PRJNA868688,USA,USA,original,original metadata
+SRR21059758,PRJNA868688,USA,USA,original,original metadata
+SRR21059759,PRJNA868688,USA,USA,original,original metadata
+SRR21059760,PRJNA868688,USA,USA,original,original metadata
+SRR21059761,PRJNA868688,USA,USA,original,original metadata
+SRR21059762,PRJNA868688,USA,USA,original,original metadata
+SRR21059763,PRJNA868688,USA,USA,original,original metadata
+SRR21059764,PRJNA868688,USA,USA,original,original metadata
+SRR21059765,PRJNA868688,USA,USA,original,original metadata
+SRR21059766,PRJNA868688,USA,USA,original,original metadata
+SRR21059767,PRJNA868688,USA,USA,original,original metadata
+SRR21059768,PRJNA868688,USA,USA,original,original metadata
+SRR21059769,PRJNA868688,USA,USA,original,original metadata
+SRR21059770,PRJNA868688,USA,USA,original,original metadata
+SRR21059771,PRJNA868688,USA,USA,original,original metadata
+SRR21059772,PRJNA868688,USA,USA,original,original metadata
+SRR21059773,PRJNA868688,USA,USA,original,original metadata
+SRR6243639,PRJNA416769,not collected,Unknown,unresolved,BioSample: geo_loc_name not collected; clade duboisii_B suggests African origin (inference only)
+SRR8084704,PRJNA497408,Brazil: Tingua Rio de Janeiro,Brazil: Tingua Rio de Janeiro,original,original metadata
+SRR8084705,PRJNA497408,Brazil: Ilha Grande Rio de Janeiro,Brazil: Ilha Grande Rio de Janeiro,original,original metadata
+SRR8084706,PRJNA497408,Brazil: Itaguai Rio de Janeiro,Brazil: Itaguai Rio de Janeiro,original,original metadata
+SRR8084707,PRJNA497408,Brazil: Niteroi Rio de Janeiro,Brazil: Niteroi Rio de Janeiro,original,original metadata
+SRR8084720,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084721,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084719,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084718,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084717,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084716,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084715,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084714,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084713,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084712,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084711,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084710,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084709,PRJNA497408,Brazil: Rio de Janeiro,Brazil: Rio de Janeiro,original,original metadata
+SRR8084708,PRJNA497408,Brazil: Rio da Prata Rio de Janeiro,Brazil: Rio da Prata Rio de Janeiro,original,original metadata
+SRR8347492,PRJNA493220,Venezuela:Caracas,Venezuela:Caracas,original,original metadata
+SRR8426586,PRJNA514096,USA,USA,original,original metadata
+SRR6243645,PRJNA416769,not collected,Unknown,unresolved,BioSample says not collected; no location in project files
+SRR6243646,PRJNA416769,not collected,Unknown,unresolved,BioSample says not collected; no location in project files
+SRR6243643,PRJNA416769,not collected,Unknown,unresolved,BioSample says not collected; no location in project files
