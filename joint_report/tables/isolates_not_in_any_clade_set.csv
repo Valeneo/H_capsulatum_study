@@ -1,0 +1,4 @@
+Run_Accession,country,mapping_rate_reported,reference_in_that_run,note
+SRR20306115,China,55.7%,WU24,absent from all four clade sets; reason not recorded in the results folder
+SRR29905426,South Africa,65.6%,H88,absent from all four clade sets; reason not recorded in the results folder
+SRR29905402,Egypt,67.2%,H88,absent from all four clade sets; reason not recorded in the results folder

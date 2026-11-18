@@ -1,0 +1,9 @@
+clade,divergence_group,n
+African,divergent (>=5% non-ref),11
+African,near-identical to reference (<5% non-ref),18
+G217B,divergent (>=5% non-ref),4
+G217B,near-identical to reference (<5% non-ref),7
+LatinAm,divergent (>=5% non-ref),21
+LatinAm,near-identical to reference (<5% non-ref),2
+NAm1,divergent (>=5% non-ref),94
+NAm1,near-identical to reference (<5% non-ref),23

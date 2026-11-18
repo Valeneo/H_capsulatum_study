@@ -1,0 +1,5 @@
+clade,snpeff_db,reference_assembly,reference_contigs,reference_length_bp,isolates,snps,snps_per_kb,snps_per_isolate_median,effects,warnings,warnings_pct_of_snps,missense_silent,ts_tv,annotation_ok
+NAm1,Hcap_NAm1_WU24,WU24.fa,8,32531515,117,1960029,60.250160498212274,558977,8414896,520211,26.540984852775136,0.77698,2.35,TRUE
+African,Hcap_African,African_assembly.fa,16664,42862922,29,1344019,31.356215052254253,63575,7214268,374076,27.832642246872997,0.826523,2.48,TRUE
+LatinAm,Hcap_NAm1_WU24,LatinAmerican_assembly.fa,25810,43054246,23,1822533,42.331086230147896,341907,1822533,0,0,0,2.43,FALSE
+G217B,Hcap_G217B,G217B_assembly.fa,270166,50182929,11,520860,10.379226768529195,200,2709147,45290,8.695234803978037,0.663285,2.42,TRUE
